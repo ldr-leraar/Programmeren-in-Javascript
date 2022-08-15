@@ -7,5 +7,6 @@ deze regel code, de 'hello world'-opdracht, de allereerste oefening zijn. Een tr
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Hello_World_Brian_Kernighan_1978.jpg"/>
 
 **Opgave:**
+
  * Noteer hieronder de Javascript-code om 'Hello, World' op het scherm te laten verschijnen; 
  * Dien daarna jouw code in. 
