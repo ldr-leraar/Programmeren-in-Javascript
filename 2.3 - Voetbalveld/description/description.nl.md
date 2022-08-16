@@ -3,7 +3,7 @@
 Tijdens de reis van Fred houdt hij halt aan een camping. Daarnaast ligt een voetbalplein dat men volledig aan het vernieuwen is met
 grasmatten. 
 
-<img src="https://images.pexels.com/photos/114296/pexels-photo-114296.jpeg?cs=srgb&dl=pexels-markus-spiske-114296.jpg&fm=jpg", width="50%"/>
+<img src="https://images.pexels.com/photos/114296/pexels-photo-114296.jpeg?cs=srgb&dl=pexels-markus-spiske-114296.jpg&fm=jpg"; width="50%"/>
 
 
 **Gevraagd:**
