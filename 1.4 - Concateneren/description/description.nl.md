@@ -48,5 +48,5 @@ We willen deze gegevens in één mooi verzorgde zin op het scherm zien verschijn
 *Helmut Lotti, geboren in Gent, woont in de Dorpstraat 13, Sint-Amandsberg.* 
 
 * Schrijf jouw code; 
-* Test jouw code; 
-* Dien jouw oplossing in. 
+* Maak gebruik van de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript) om jouw code uit te testen en te **debuggen**; 
+* Dien daarna jouw code in via de Dodona-omgeving. 
