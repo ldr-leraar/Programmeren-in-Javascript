@@ -13,6 +13,7 @@ Maar na die vijf jaar belooft de bank Fred wel een mooie interest van 19.87%.
 
 
 **Gevraagd:**
+
 Bereken het totaalbedrag dat Fred zal krijgen, na die vijf jaar, wanneer hij het geld van de waarborgrekening terug krijgt. 
 
 * Gebruik je kennis van **variabelen, operatoren en de console.log-functie** in Javascriptcode;
