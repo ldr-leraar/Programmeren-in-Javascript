@@ -20,7 +20,9 @@ var rekening = rekening + storting
 console.log('Uw nieuw saldo bedraagt ' + rekening + ' euro.')
 ```
 
-<img src = "https://images.pexels.com/photos/5699376/pexels-photo-5699376.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width = 50%/>
+
+<img src = "https://images.pexels.com/photos/5699376/pexels-photo-5699376.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width ="50%"/>
+
 
 **Gevraagd:**
 
