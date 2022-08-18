@@ -1,0 +1,21 @@
+{
+  "type": "exercise",
+  "programming_language": "javascript",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "3.1 - De Selectie Deel 2 - else-functie",
+      "en": "3.1 - The Selection Part 2 - else-Function"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+
+  ],
+  "internals": {
+    "token": "y-NAFk-Q4kTC6tVCA4dpBG8RCWr7rzxugFgf4BIPmjRd5HBADq5GCjvDmC-GiZg5",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
