@@ -35,7 +35,7 @@ Een vereenvoudigde definitie gaat als volgt:
 
 Fred verzamelt een aantal metingen uit de kranten en stelt volgende tabel samen: 
 
-<tbody>
+<table>
 <tr>
 <th>Datum</th>
 <th>Max.</th>
@@ -89,7 +89,7 @@ Fred verzamelt een aantal metingen uit de kranten en stelt volgende tabel samen:
 <td>23,0&nbsp;°C</td>
 <td>16 augustus</td>
 <td>19,0&nbsp;°C
-</td></tr></tbody>
+</td></tr></table>
 
 
 **Gevraagd:**
