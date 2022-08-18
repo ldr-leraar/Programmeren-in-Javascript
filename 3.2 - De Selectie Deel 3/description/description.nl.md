@@ -5,7 +5,7 @@ Dan kan een **IF ELSE-functie** van pas komen! Die functie heeft een eigen voorw
 
 
 
-´´´
+```
 if (voorwaarde WAAR is) { 
 actie uitvoeren;
 }
@@ -17,7 +17,7 @@ actie uitvoeren;
 else { 
 actie uitvoeren;
 }
-´´´
+```
 
 
 **Gevraagd:**
