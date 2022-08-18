@@ -8,7 +8,7 @@ Dat wil dus zeggen dat de **else-functie geen eigen voorwaarde heeft.**
 
 
 
-´´´
+```
 if (voorwaarde WAAR is) { 
 actie uitvoeren;
 }
@@ -16,7 +16,7 @@ actie uitvoeren;
 else { 
 actie uitvoeren;
 }
-´´´
+```
 
 
 **Voorbeeld in Javascript:**
@@ -24,12 +24,12 @@ actie uitvoeren;
 We bouwden in de vorige oefening een programma dat ons kon vertellen of een getal even of oneven was. Je vindt hieronder de code terug.
 
 
-´´´
+```
 var getal = X ;
 if (getal % 2 == 0  ) { 
 console.log('Het getal ' + getal + ' is een even getal.' );
 }
-´´´
+```
 
 **Gevraagd:**
 * Pas bovenstaande algoritme aan zodat de computer kan vertellen of een getal even of oneven is;
