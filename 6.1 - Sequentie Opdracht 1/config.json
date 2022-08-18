@@ -4,8 +4,8 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "2.3 - Voetbalveld",
-      "en": "2.3 - Soccer Field"
+      "nl": "6.1 - Sequentie Opdracht 1",
+      "en": 6.1 - Sequence Ex. 1"
     }
   },
   "evaluation": {
@@ -15,7 +15,7 @@
 
   ],
   "internals": {
-    "token": "YKeP4D9WiW8RtMF5Y7MtvRuxBhHz5Kpr7K5RCVZuFcUFtVWTSJI3xGhzhIfEfryK",
+    "token": "y-NAFk-Q4kTC6tVCA4dpBG8RCWr7rzxugFgf4BIPmjRd5HBADq5GCjvDmC-GiZg5",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
