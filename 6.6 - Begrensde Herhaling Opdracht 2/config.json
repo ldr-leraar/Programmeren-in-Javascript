@@ -1,0 +1,34 @@
+{
+  "type": "exercise",
+  "programming_language": "javascript",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "6.6 - Begrensde Herhaling Opdracht 2",
+      "en": "6.6 - For-loop Ex. 2"
+    }
+  },
+  "evaluation": {
+    "handler": "TESTed",
+    "plan_name": "testplan.yaml",
+    "options": {
+      "parallel": true,
+      "mode": "batch",
+      "allow_fallback": true,
+      "optimized": true,
+      "linter": {
+        "c": true,
+        "haskell": true,
+        "java": true,
+        "javascript": true,
+        "kotlin": true,
+        "python": true
+  },
+  "labels": [
+
+  ],
+  "internals": {
+    "token": "j3GZu-5sGxUgAmebchyITbmkuiJD9x7bH2VaPEhx-uQZJpUYty_TrA-VAZsFTTG_",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
