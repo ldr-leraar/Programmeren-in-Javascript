@@ -4,8 +4,8 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "2.3 - Voetbalveld",
-      "en": "2.3 - Soccer Field"
+      "nl": "6.5 - Begrensde Herhaling Opdracht 1",
+      "en": "6.5 - For-loop Ex. 1"
     }
   },
   "evaluation": {
@@ -15,7 +15,7 @@
 
   ],
   "internals": {
-    "token": "6GtirWy8-tRbP-8ddgrphQ4_GATFFhTE2b-WCS-E7gQNWprRjYxzqiXyfaqMJEZd",
+    "token": "y-NAFk-Q4kTC6tVCA4dpBG8RCWr7rzxugFgf4BIPmjRd5HBADq5GCjvDmC-GiZg5",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

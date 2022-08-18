@@ -4,8 +4,8 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "2.3 - Voetbalveld",
-      "en": "2.3 - Soccer Field"
+      "nl": "6.7 - Voorwaardelijke Herhaling Opdracht 1",
+      "en": "6.7 - While-loop Ex. 1"
     }
   },
   "evaluation": {
@@ -15,7 +15,7 @@
 
   ],
   "internals": {
-    "token": "NVaMnE5hCqH6ifPd4bCS3mx3Nk9Zr9nfrG_aBgxtyGdq2hyTuBpFjDkmsynyJp4v",
+    "token": "y-NAFk-Q4kTC6tVCA4dpBG8RCWr7rzxugFgf4BIPmjRd5HBADq5GCjvDmC-GiZg5",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
