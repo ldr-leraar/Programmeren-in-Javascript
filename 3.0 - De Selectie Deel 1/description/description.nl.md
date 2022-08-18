@@ -11,11 +11,11 @@ Wanneer de computer een stuk code uitvoert, krijgen we steeds een oplossing. Maa
 Wanneer we een **ALS-functie** of een **IF-functie** willen gebruiken, moeten we daarvoor de correcte syntaxis gebruiken. 
 Deze gaat als volgt: 
 
-´´´
+```
 if (voorwaarde WAAR is) { 
 actie uitvoeren;
 }
-´´´
+```
 
 
 **Voorbeeld in Javascript:**
@@ -24,12 +24,12 @@ We bouwen een programma dat ons kan vertellen of een invoergetal even of oneven 
 dan hebben we een geheel getal. Wanneer we geïnteresseerd zijn in de restwaarde, maken we gebruik van de **modulodeling** of **%-operator.**
 
 
-´´´
+```
 var getal = X ;
 if (getal % 2 == 0  ) { 
 console.log('Het getal ' + getal + ' is een even getal.' );
 }
-´´´
+```
 
 **Gevraagd:**
 * Maak gebruik van de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript) om bovenstaande code uit te testen; 
