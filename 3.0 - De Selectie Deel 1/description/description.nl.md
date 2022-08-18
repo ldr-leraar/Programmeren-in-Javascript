@@ -1,4 +1,4 @@
-**De Selectie Deel 1: De IF-functie**
+**3 - De Selectie Deel 1: De IF-functie**
 
 Wanneer de computer een stuk code uitvoert, krijgen we steeds een oplossing. Maar we kunnen de code zodanig ontwerpen dat meerdere uitkomsten mogelijk zijn! Hiervoor gebruiken we 
 **voorwaarden.** Aan de hand van de **voorwaarden** kan de computer **selecteren** welke stap er gezet moet worden. Daarvoor gebruiken we een **IF-ELSE-functie.**

@@ -1,4 +1,4 @@
-**Hittegolf**
+**3.6 - Hittegolf**
 
 Wanneer we werken met **programmeerconcepten** zoals IF en ELSE IF, maken we gebruik van **voorwaarden**. Wanneer aan de voorwaarde is voldaan, 
 dan worden de acties die horen bij die functie uitgevoerd. 

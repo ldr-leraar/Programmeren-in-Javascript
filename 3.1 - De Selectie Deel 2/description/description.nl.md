@@ -1,4 +1,4 @@
-**De Selectie Deel 2: De ELSE-functie**
+**3.1 - De Selectie Deel 2: De ELSE-functie**
 
 In de vorige oefening maakte je kennis met de **IF-functie**. Deze bevat een **voorwaarde** en acties die uitgevoerd worden wanneer aan de **voorwaarde** is voldaan. 
 Naast de **IF-functie** kunnen we ook gebruikmaken van de **ELSE-functie**. Wanneer **niet voldaan wordt aan de voorwaarde van de IF-functie**, kan de computer
