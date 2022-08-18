@@ -4,8 +4,8 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "3.3 - Tolwegen in Frankrijk",
-      "en": "3.3 - Toll Road in France"
+      "nl": "3.4 - Aanmelden",
+      "en": "3.4 - Signing In"
     }
   },
   "evaluation": {
@@ -15,7 +15,7 @@
 
   ],
   "internals": {
-    "token": "RfhiRtzGJUEXRiTanSDx26a5QmggmtDt35hBK2EDizvqiFr_SYnuEax6ZSjSF8bt",
+    "token": "y-NAFk-Q4kTC6tVCA4dpBG8RCWr7rzxugFgf4BIPmjRd5HBADq5GCjvDmC-GiZg5",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
