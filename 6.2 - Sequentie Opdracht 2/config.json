@@ -4,31 +4,18 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "6.2 - Sequentie Opdracht 2",
-      "en": "6.2 - Sequence Ex. 2"
+      "nl": "2.3 - Voetbalveld",
+      "en": "2.3 - Soccer Field"
     }
   },
   "evaluation": {
-    "handler": "TESTed",
-    "plan_name": "testplan.yaml",
-    "options": {
-      "parallel": true,
-      "mode": "batch",
-      "allow_fallback": true,
-      "optimized": true,
-      "linter": {
-        "c": true,
-        "haskell": true,
-        "java": true,
-        "javascript": true,
-        "kotlin": true,
-        "python": true
+    "pythia_judge": "output"
   },
   "labels": [
 
   ],
   "internals": {
-    "token": "j3GZu-5sGxUgAmebchyITbmkuiJD9x7bH2VaPEhx-uQZJpUYty_TrA-VAZsFTTG_",
+    "token": "y-NAFk-Q4kTC6tVCA4dpBG8RCWr7rzxugFgf4BIPmjRd5HBADq5GCjvDmC-GiZg5",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
