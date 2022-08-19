@@ -4,8 +4,8 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "4.6 - Hittegolfalarm",
-      "en": "4.6 - Heatwave Alert"
+      "nl": "5.0 - De Voorwaardelijke Herhaling",
+      "en": "5.0 - While-Function"
     }
   },
   "evaluation": {

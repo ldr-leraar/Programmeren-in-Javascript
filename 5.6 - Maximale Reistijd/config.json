@@ -4,8 +4,8 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "4.6 - Hittegolfalarm",
-      "en": "4.6 - Heatwave Alert"
+      "nl": "5.6 - Maximale Reistijd",
+      "en": "5.6 - Maximum Driving Autonomy"
     }
   },
   "evaluation": {

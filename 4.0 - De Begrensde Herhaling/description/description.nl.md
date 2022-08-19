@@ -1,4 +1,4 @@
-**4.0 - de Begrensde Herhaling**
+**4.0 - De Begrensde Herhaling**
 
 Wanneer we **computationeel denken**, ontleden we een probleem en doen we aan **patroonherkenning**. Een van de patronen die we zo kunnen herkennen is een herhaling. 
 Bij het programmeren zijn er twee courante herhalingen: de begrensde en voorwaardelijke herhaling. 
