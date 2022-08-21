@@ -12,7 +12,7 @@ if (dag1 >= 25) {
 }
 ```
 
-Bij het opstellen van een functie met een voorwaarde, kan je twee of meerdere voorwaarden combineren! Daarvoor gebruik je **&& operator**. 
+Bij het opstellen van een functie met een voorwaarde, kan je twee of meerdere voorwaarden combineren! Daarvoor gebruik je **&& operator** tussen 
 de twee voorwaarden. 
 
 ```
