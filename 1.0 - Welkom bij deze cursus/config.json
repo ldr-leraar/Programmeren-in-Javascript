@@ -9,7 +9,7 @@
     }
   },
   "evaluation": {
-    "handler": "python"
+    "handler": "javascript"
   },
   "labels": [
 
