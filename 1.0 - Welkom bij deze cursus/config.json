@@ -9,7 +9,7 @@
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "plan_name": "testsuite.json"
   },
   "labels": [
 
