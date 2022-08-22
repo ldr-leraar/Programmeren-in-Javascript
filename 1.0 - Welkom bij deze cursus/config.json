@@ -9,7 +9,7 @@
     }
   },
   "evaluation": {
-    "plan_name": "testsuite.json"
+    "handler": "python"
   },
   "labels": [
 
