@@ -9,6 +9,7 @@
     }
   },
   "evaluation": {
+    "programming_language": "javascript",
     "pythia_judge": "output"
   },
   "labels": [
