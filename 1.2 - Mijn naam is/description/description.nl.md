@@ -7,7 +7,6 @@ Wanneer je kijkt naar de **syntax** uit de vorige oefening, dan valt je iets op.
 
 ```
 console.log('Hello, World'); 
-
 ```
 
 **Wat is de console.log juist?**

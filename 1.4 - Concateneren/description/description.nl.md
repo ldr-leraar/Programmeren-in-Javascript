@@ -11,7 +11,7 @@ voornaam = 'Robbe';
 ```
 Dit lees je als: 
 
-* We herkennen het **datatype** **string** aan de **aanhalingstekens**; 
+* We herkennen het **datatype** **string** aan de **aanhalingstekens; 
 * We slaan de **string** (in dit geval 'Robbe') op in een variabele; 
 * We geven die variabele een naam, namelijk **voornaam**. 
 
