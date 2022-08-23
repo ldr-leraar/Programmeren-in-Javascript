@@ -1,7 +1,6 @@
 {
-    "evaluation": {
-        "memory_limit": 500000000,
-        "plan_name": "plan.yaml"
-    },
+    "time_limit": 15,
+    "memory_limit": 500000000,
+    "natural_language": "nl",
     "programming_language": "javascript"
 }
