@@ -9,12 +9,11 @@
     }
   },
   "evaluation": {
-    "testplan": "testsuite.json",
-    "time_limit": 15,
-    "memory_limit": 500000000,
-    "natural_language": "nl",
-    "programming_language": "javascript"
+    "plan_name": "testplan.json"
   },
+  "programming_language": "javascript",
+  "access": "private"
+}
   "labels": [
 
   ],
