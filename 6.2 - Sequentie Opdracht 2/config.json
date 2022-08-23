@@ -9,13 +9,18 @@
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "memory_limit": 500000000,
+    "plan_name": "empty.tson",
+    "handler": "TESTed",
+    "options": {
+      "allow_fallback": false
+    }
   },
   "labels": [
 
   ],
   "internals": {
-    "token": "MZWs9h33ZMZAiwadmw4Tqr_kRhKiCggt9tieU9Kd4ktFjaP4pv_eDVPrJK9X7KSB",
+    "token": "y-NAFk-Q4kTC6tVCA4dpBG8RCWr7rzxugFgf4BIPmjRd5HBADq5GCjvDmC-GiZg5",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

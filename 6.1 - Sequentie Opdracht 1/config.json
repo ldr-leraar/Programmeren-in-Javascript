@@ -5,17 +5,22 @@
   "description": {
     "names": {
       "nl": "6.1 - Sequentie Opdracht 1",
-      "en": "6.1 - Sequence Ex. 1"
+      "en": 6.1 - Sequence Ex. 1"
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "memory_limit": 500000000,
+    "plan_name": "empty.tson",
+    "handler": "TESTed",
+    "options": {
+      "allow_fallback": false
+    }
   },
   "labels": [
 
   ],
   "internals": {
-    "token": "YKeP4D9WiW8RtMF5Y7MtvRuxBhHz5Kpr7K5RCVZuFcUFtVWTSJI3xGhzhIfEfryK",
+    "token": "y-NAFk-Q4kTC6tVCA4dpBG8RCWr7rzxugFgf4BIPmjRd5HBADq5GCjvDmC-GiZg5",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
