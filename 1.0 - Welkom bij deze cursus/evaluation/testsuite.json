@@ -14,14 +14,14 @@
           "arguments": [
            {
             "type": "text",
-            "data": “Ik “begrijp het!”
+            "data": "Ik “begrijp het!"
            }
           ]
          },
          "output": {
           "stdout": {
            "type": "text",
-           "data": “Ik “begrijp het!”
+           "data": "Ik “begrijp het!"
           }
          }
         }
