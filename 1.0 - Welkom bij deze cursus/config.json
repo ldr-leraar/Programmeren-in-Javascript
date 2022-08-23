@@ -9,11 +9,8 @@
     }
   },
   "evaluation": {
-    "plan_name": "testplan.json"
+    "pythia_judge": "output"
   },
-  "programming_language": "javascript",
-  "access": "private"
-}
   "labels": [
 
   ],
