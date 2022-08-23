@@ -9,7 +9,8 @@
     }
   },
   "evaluation": {
-    "handler": "javascript"
+    "memory_limit": 500000000,
+    "plan_name": "plan.yaml"
   },
   "labels": [
 
