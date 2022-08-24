@@ -27,7 +27,7 @@ Fred begon reeds met het ontwerp voor zijn versie 2.0 en noteerde volgende code:
 ```
 var tussenstop = prompt('Voer je tussenstop in'); 
 var lijst_tussenstops = '';
-while tussenstop != 'Thuis' { 
+while (tussenstop != 'Thuis') { 
        
 }
 
