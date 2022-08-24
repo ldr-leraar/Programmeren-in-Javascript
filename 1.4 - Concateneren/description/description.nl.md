@@ -7,7 +7,7 @@ Binnen de IT-diensten van de Stad Gent beschikt men over allerlei databanken. Da
 
 Een **variabele** is een plaats in het geheugen van een computer waar we een stukje data kunnen opslaan. Die data kunnen we gebruiken om berekeningen mee uit te voeren. Elke data kent ook een **datatype** zoals bijvoorbeeld **strings**. Bekijk de code hieronder: 
 ```
-voornaam = 'Robbe'; 
+var voornaam = 'Robbe'; 
 ```
 Dit lees je als: 
 
@@ -28,10 +28,10 @@ Bij de diensten van de Stad Gent vindt men onderstaande code terug:
 
 ```
 //We kennen gegevens met datatype string toe aan een variabele: 
-voornaam = 'Robbe'; 
-familienaam = 'Wulgaert'; 
-geboorteplaats = 'Gent'; 
-adres = 'Koekoekstraat 77, Melle'; 
+var voornaam = 'Robbe'; 
+var familienaam = 'Wulgaert'; 
+var geboorteplaats = 'Gent'; 
+var adres = 'Koekoekstraat 77, Melle'; 
 
 //We printen deze gegevens via de console.log-functie naar het scherm:
 console.log(voornaam);
