@@ -5,7 +5,7 @@
   "description": {
     "names": {
       "nl": "1.2 - Naam, familienaam?",
-      "en": "1.2 - My name is what?"
+      "en": "1.2 - What is your name?"
     }
   },
   "evaluation": {
@@ -20,7 +20,7 @@
 
   ],
   "internals": {
-    "token": "DevzIhvtm-wbUDBbPVM9bmbmfkxcTEzyKVc6sVIKbnxxRBaehDKevZMRKrtxVEDc",
+    "token": "Pt8efY-FUQMDcN4C22MeqIpN-JG5dreKVhi-NU_b6wj_cU_9HEGqsF2njIaPe_Pp",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
