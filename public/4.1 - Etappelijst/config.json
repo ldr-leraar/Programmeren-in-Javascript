@@ -1,0 +1,26 @@
+{
+  "type": "exercise",
+  "programming_language": "javascript",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "4.1 - Etappelijst",
+      "en": "4.1 - List of Trips"
+    }
+  },
+  "evaluation": {
+    "memory_limit": 500000000,
+    "plan_name": "empty.tson",
+    "handler": "TESTed",
+    "options": {
+      "allow_fallback": false
+    }
+  },
+  "labels": [
+
+  ],
+  "internals": {
+    "token": "y-NAFk-Q4kTC6tVCA4dpBG8RCWr7rzxugFgf4BIPmjRd5HBADq5GCjvDmC-GiZg5",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
