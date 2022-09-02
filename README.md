@@ -39,7 +39,10 @@ Het lesmateriaal werd ontwikkeld in de zomer van 2022 op basis van mijn zes jaar
 
 * circa vijftig oefeningen via het digitale leerplatform Dodona. 
 
-De volledige reeks lesvideo’s zijn te vinden via [deze link (YouTube)]{https://youtube.com/playlist?list=PL7qul8TV_7p7v3bp1KpzJrH5Yb56Ha4Nx}. Hieronder vind je alvast de eerste van maar liefst negen lesvideo’s!
+De volledige reeks lesvideo’s zijn te vinden via [deze link (YouTube)](https://youtube.com/playlist?list=PL7qul8TV_7p7v3bp1KpzJrH5Yb56Ha4Nx). Hieronder vind je alvast de eerste van maar liefst negen lesvideo’s!
+
+## Meer informatie
+Meer informatie kan je vinden via deze [blogpost](https://www.robbewulgaert.be/onderwijs/lessenreeks-computationeel-denken-javascript). 
 
 ---
 Contact: 
