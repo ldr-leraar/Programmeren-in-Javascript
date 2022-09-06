@@ -11,3 +11,9 @@ deze regel code, de 'hello world'-opdracht, de allereerste oefening zijn. Een tr
  * Maak gebruik van de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript) om jouw code uit te testen. 
  * Noteer de Javascript-code om 'Hello, World' op het scherm te laten verschijnen; 
  * Dien daarna jouw code hier in. 
+
+
+---
+Cursus opgesteld door Robbe Wulgaert. 
+
+Meer informatie: www.robbewulgaert.be
