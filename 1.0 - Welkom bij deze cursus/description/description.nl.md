@@ -34,6 +34,14 @@ jouw code in orde is.
 ```
 console.log("Ik begrijp het!");
 
+
+
+
 ```
 
 * Dien daarna jouw code in via de Dodona-omgeving. 
+
+
+---
+Cursus opgesteld door Robbe Wulgaert. 
+Meer informatie: www.robbewulgaert.be
