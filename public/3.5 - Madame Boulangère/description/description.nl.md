@@ -30,3 +30,10 @@ Eenmaal bij de bakker vinden ze volgende formule:
 * Maak gebruik van de IF, ELSE en ELSE IF-functies zodat de code maar éénmaal moet worden uitgevoerd;
 * Maak gebruik van de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript) om jouw code uit te testen en te debuggen;
 * Dien daarna jouw oplossing in via de Dodona-omgeving. 
+
+
+
+---
+Cursus opgesteld door Robbe Wulgaert. 
+
+Meer informatie: www.robbewulgaert.be
