@@ -27,3 +27,9 @@ Daarboven hoort Fred ook 10% taks te betalen in de vorm van statiegeld. De kassa
 * Ontwerp een eigen oplossing die **leesbaar en functioneel** is! 
 * Maak gebruik van de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript) om jouw code uit te testen en te **debuggen**; 
 * Dien daarna jouw code in via de Dodona-omgeving. 
+
+
+---
+Cursus opgesteld door Robbe Wulgaert. 
+
+Meer informatie: www.robbewulgaert.be
