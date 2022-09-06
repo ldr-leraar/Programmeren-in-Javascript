@@ -44,4 +44,5 @@ console.log("Ik begrijp het!");
 
 ---
 Cursus opgesteld door Robbe Wulgaert. 
+
 Meer informatie: www.robbewulgaert.be
