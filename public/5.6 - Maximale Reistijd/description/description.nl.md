@@ -16,3 +16,11 @@ Fred is op autoreis doorheen Frankrijk met zijn elektrische wagen. Hij controlee
 * Een correcte volzin bevat een onderwerp, een werkwoord en een eenheid;
 * Maak gebruik van de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript) om jouw code uit te testen en te debuggen;
 * Dien daarna jouw oplossing in via de Dodona-omgeving. 
+
+
+
+
+---
+Cursus opgesteld door Robbe Wulgaert.
+
+Meer informatie: www.robbewulgaert.be
