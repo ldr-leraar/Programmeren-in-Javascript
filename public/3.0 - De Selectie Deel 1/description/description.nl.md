@@ -36,3 +36,9 @@ console.log('Het getal ' + getal + ' is een even getal.' );
 * Bekijk de code: er wordt gebruik gemaakt van enkelvoudige en dubbele gelijkheidstekens. Deze hebben elk een andere functie, welke? 
 * Pas de code aan zodat je oneven getallen kan opsporen;
 * Dien daarna jouw aangepaste code, waarmee je oneven getallen kan opsporen, in via de Dodona-omgeving. 
+
+
+---
+Cursus opgesteld door Robbe Wulgaert. 
+
+Meer informatie: www.robbewulgaert.be
