@@ -32,3 +32,10 @@ if (voorwaarde_1 || voorwaarde_2) {
 * Een correcte volzin bevat een onderwerp, een werkwoord en een eenheid (=euro);
 * Maak gebruik van de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript) om jouw code uit te testen en te debuggen;
 * Dien daarna jouw oplossing in via de Dodona-omgeving. 
+
+
+
+---
+Cursus opgesteld door Robbe Wulgaert. 
+
+Meer informatie: www.robbewulgaert.be
