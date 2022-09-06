@@ -100,3 +100,9 @@ Fred verzamelt een aantal metingen uit de kranten en stelt volgende tabel samen:
 * Maak gebruik van de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript) om jouw code uit te testen en te debuggen;
 * Welke van bovenstaande periodes is geen officiële hittegolf?
 * Dien daarna jouw oplossing in via de Dodona-omgeving. 
+
+
+---
+Cursus opgesteld door Robbe Wulgaert. 
+
+Meer informatie: www.robbewulgaert.be
