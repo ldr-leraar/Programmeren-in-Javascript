@@ -5,3 +5,11 @@ Fred is jobstudent en is verantwoordelijk om de lijnen te tekenen op het voetbal
 * Schrijf een programma dat de gebruiker vraagt naar de lengte en de breedte. 
 * Bereken de omtrek en vervolgens de oppervlakte tot 2 decimalen. 
 * Print de omtrek en de oppervlakte naar het scherm. 
+
+
+
+
+---
+Cursus opgesteld door Robbe Wulgaert.
+
+Meer informatie: www.robbewulgaert.be
