@@ -37,3 +37,9 @@ console.log(x % z); // ...
 * Gebruik hiervoor de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript) om jouw code uit te testen en te **debuggen**; 
 * Vul de ontbrekende comments (...) aan; 
 * Dien daarna jouw code, met de aangevulde comments, in via de Dodona-omgeving. 
+
+
+---
+Cursus opgesteld door Robbe Wulgaert. 
+
+Meer informatie: www.robbewulgaert.be
