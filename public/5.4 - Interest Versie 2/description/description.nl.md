@@ -23,3 +23,10 @@ van drie maal de maandhuur. De maandhuur bedraagt 695 euro.
 * Dien daarna jouw oplossing in via de Dodona-omgeving. 
 
 ```
+
+
+
+---
+Cursus opgesteld door Robbe Wulgaert.
+
+Meer informatie: www.robbewulgaert.be
