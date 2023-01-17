@@ -6,7 +6,7 @@ Hij zet enkele gegevens, die hij kan lezen op de zijkant van de tankwagen, op ee
 
 * De tankwagen heeft een maximale capaciteit van **50 000 liter**;
 * De tankwagen is voor 80% gevuld;
-* De **straal** van de cilindervormige tank is 1.25 meter. 
+* De **straal** van de cilindervormige tank is 12.5 decimeter. 
 
 Hij ontbreekt de **lengte** van de tanker ... 
 
