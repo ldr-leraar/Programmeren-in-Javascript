@@ -3,9 +3,9 @@
 Fred is tijdens zijn reis eventjes aan het werken. De lokale Wi-FI hotspot op de camping is heel traag. Om tijdens een lange download de tijd te doden, slaat Fred aan het schrijven van code. 
 Hij weet dat: 
 * 1 byte = 8 bits
-* 1 kilobyte = 1.024 bytes
-* 1 megabyte = 1.024 kilobytes
-* 1 gigabyte = 1.024 megabytes
+* 1 kilobyte = 1024 bytes
+* 1 megabyte = 1024 kilobytes
+* 1 gigabyte = 1024 megabytes
 
 Zijn downloadbestand is 6.66 gigabyte groot. 
 
