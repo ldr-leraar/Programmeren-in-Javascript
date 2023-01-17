@@ -4,7 +4,7 @@ Fred staat tijdens zijn doorrit naar Zuid-Frankrijk in de file aan een betaalpos
 Fred is verbaast hoe lang de tanker is die de vrachtwagen met zich mee heeft. 
 Hij zet enkele gegevens, die hij kan lezen op de zijkant van de tankwagen, op een rijtje: 
 
-* De tankwagen heeft een maximale capaciteit van **50 liter**;
+* De tankwagen heeft een maximale capaciteit van **50 000 liter**;
 * De tankwagen is voor 80% gevuld;
 * De **straal** van de cilindervormige tank is 1.25 meter. 
 
