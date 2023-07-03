@@ -1,4 +1,4 @@
 - tab: "Oplossing"
   testcases:
-       stdin:
-       stdout: "Ik begrijp het!"
+    - stdin:
+      stdout: "Ik begrijp het!"
