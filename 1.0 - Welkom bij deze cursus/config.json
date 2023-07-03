@@ -10,8 +10,8 @@
   },
   "evaluation": {
     "pythia_judge": "output"
-    }
   },
+  
   "labels": [
 
   ],
