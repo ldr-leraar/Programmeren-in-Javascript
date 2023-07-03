@@ -9,7 +9,7 @@
     }
   },
   "evaluation": {
-    "plan_name": "tests.yaml"
+    "pythia_judge": "output"
     }
   },
   "labels": [
