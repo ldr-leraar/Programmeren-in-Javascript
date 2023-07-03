@@ -9,11 +9,7 @@
     }
   },
   "evaluation": {
-    "memory_limit": 500000000,
-    "plan_name": "tests.yaml",
-    "handler": "TESTed",
-    "options": {
-      "allow_fallback": false
+    "plan_name": "tests.yaml"
     }
   },
   "labels": [
