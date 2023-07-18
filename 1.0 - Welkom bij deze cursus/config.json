@@ -8,13 +8,18 @@
       "en": "1.0 - Welcome"
     }
   },
-"evaluation": {
-    "memory_limit": 500000000,
-    "plan_name": "testplan.json",
+  "evaluation": {
     "handler": "TESTed",
+    "test_suite": "tests.yaml",
     "options": {
-      "allow_fallback": false
-    }
+      "mode": "batch",
+      "allow_fallback": true,
+      "linter": {
+        "javascript": true
+      },
+        "javascript": {
+          "eslint_config": "eslintrc.yaml"
+        }
   },
   "labels": [
 
