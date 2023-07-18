@@ -1,4 +1,4 @@
 - tab: "Oplossing"
   testcases:
-       - expression: "echo('Ik begrijp het!')"
+     - expression: "echo('Ik begrijp het!')"
        stdout: "Ik begrijp het!"
