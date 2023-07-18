@@ -1,0 +1,30 @@
+{
+  "tabs": [
+    {
+      "name": "Feedback",
+      "runs": [
+        {
+          "run": {
+            "description": "Uitvoeren code",
+            "input": {
+              "main_call": true
+            },
+            "output": {
+              "exception": {
+                "evaluator": {
+                  "type": "specific",
+                  "evaluators": {
+                    "javascript": {
+                      "file": "oplossing.js"
+                    }
+
+                  }
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
