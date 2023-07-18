@@ -9,7 +9,7 @@
             "input": {
               "main_call": true
             },
-            "output": {"Ik begrijp het!",
+            "output": {
               "exception": {
                 "evaluator": {
                   "type": "specific",
