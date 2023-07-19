@@ -1,4 +1,4 @@
-**De Sequentie**
+## De Sequentie
 
 Computers zijn strikt logische machines. Wanneer ze instructies uitvoeren, houden ze zich aan het stappenplan of **algoritme.** Dat wil dus zeggen: **stap voor stap**. 
 De instructies worden **in volgorde** of **in sequentie** uitgevoerd. 
@@ -6,7 +6,7 @@ De instructies worden **in volgorde** of **in sequentie** uitgevoerd.
 Je kan het vergelijken met het bouwen van een LEGO-bouwset of een IKEA-kast. Je voert de stappen uit van begin tot einde. Start je ergens middenin het stappenplan, 
 dan vrees ik dat je een vrij eigenaardig bouwwerk zal uitkomen. 
 
-**Gegeven:**
+## Gegeven
 
 Het kassasysteem aan een tankstation lijkt een eigenaardige berekening te maken. Fred koopt er vier flesjes cola aan 3.50 euro per stuk (tankstations durven duurder uit te vallen dan een reguliere supermarkt). 
 Daarboven hoort Fred ook 10% taks te betalen in de vorm van statiegeld. De kassa levert volgend resultaat: 
@@ -20,7 +20,7 @@ Daarboven hoort Fred ook 10% taks te betalen in de vorm van statiegeld. De kassa
 ```
 
 
-**Gevraagd:**
+## Gevraagd
 
 * Bekijk het **algoritme** hierboven grondig; 
 * Wat loopt er mis in die berekening? 
