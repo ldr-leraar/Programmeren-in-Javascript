@@ -15,7 +15,7 @@ Zijn downloadbestand is 6.66 gigabyte groot.
 
 **Gevraagd:**
 
-Schrijf een kleine tool om uit te drukken hoeveel bits, bytes, kilobytes, megabytes ... groot een bepaald bestand is. 
+Schrijf een kleine tool om uit te drukken hoeveel bits, bytes, kilobytes, megabytes ... groot het bestand van Fred is. 
 
 * Gebruik je kennis van **variabelen, operatoren en de console.log-functie** in Javascriptcode;
 * Print het antwoord in een volzin naar het scherm. De volzin bevat een onderwerp, werkwoordsvorm en eenheid (bits, bytes, kilobytes ...); 
