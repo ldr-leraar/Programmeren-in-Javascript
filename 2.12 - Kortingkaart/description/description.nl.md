@@ -1,4 +1,4 @@
-**Gegeven:**
+## Gegeven
 
 Voor hij op tocht gaat doorheen Frankrijk, houdt Fred halt bij een Albert Heijn. Daar doet hij inkopen om zo een voorraad aan te leggen. Komt van pas tijdens de reis. 
 
@@ -12,12 +12,21 @@ Aan de kassa krijgt hij met zijn klantenkaart:
 
 <img src="https://ah.bbvms.com/mediaclip/4668267/pthumbnail/640/360.jpg" width="50%"/>
 
+## Invoer
+```
+var bedrag1 = 102.77
+var bedrag2 = 18
+```
+## Uitvoer
+```
+"Het totale te betalen bedrag is ... euro."
+```
 
-**Gevraagd:**
+## Gevraagd
 
 Schrijf de code om het totale te betalen bedrag, met verrekende korting, op het scherm te laten verschijnen. 
 
 * Gebruik je kennis van **variabelen, operatoren en de console.log-functie** in Javascriptcode;
-* Print het antwoord in een volzin naar het scherm. De volzin bevat een onderwerp, werkwoordsvorm en eenheid (euro); 
+* Print het antwoord in een volzin naar het scherm. De volzin bevat een onderwerp, werkwoordsvorm en eenheid (euro)
 * Maak gebruik van de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript) om jouw code uit te testen en te **debuggen**; 
 * Dien daarna jouw code in via de Dodona-omgeving. 
