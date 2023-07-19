@@ -1,4 +1,4 @@
-**Welkom!**
+## Welkom! 
 
 Welkom op de **Dodona-omgeving** die bij deze cursus hoort. Dit is een online leeromgeving waar je oefeningen kan maken en indienen. 
 De leerkracht kan jouw vorderingen volgen, bekijken welke oefeningen goed lopen of minder goed lopen. De leerkracht kan ook **feedback** geven bij 
@@ -9,7 +9,7 @@ Je kan het tegenkomen in een lessenreeks over **Python**, maar ook op de hogesch
 
 
 
-**Hoe gebruik je Dodona?**
+## Hoe gebruik je Dodona?
 
 Dodona wordt in deze lessenreeks gebruikt als catalogus van oefeningen. Deze zijn opgedeeld per hoofdstuk. 
 Op de Dodona-omgeving vind je de **opgaves** en de mogelijkheid om oefeningen in te dienen. 
@@ -20,13 +20,13 @@ jouw code in orde is.
 * **Opgelet:** Wanneer je oplossing syntaxis juist is, betekent niet dat je volledige oplossing inhoudelijk correct is! Daarvoor dient de docent! 
 
 
-**Wat is Papyros?**
+## Wat is Papyros?
 
 * Dodona is, voor de **Javascript-programmeertaal** een omgeving om oplossingen in te dienen. Niet om ze te testen! 
 * Wil je een oefening testen, dan gebruik je de **Papyros-omgeving**. Deze is van dezelfde makers als Dodona, maar daar kan je code naar hartelust testen. 
 
 
-**Opgave:**
+## Opgave
 
 * Lees bovenstaande afspraken grondig; 
 * Surf naar de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript); 
