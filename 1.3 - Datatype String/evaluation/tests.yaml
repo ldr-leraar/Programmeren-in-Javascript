@@ -1,3 +1,5 @@
 - tab: "Oplossing"
   testcases:
-     - stdout: "Helmut Lotti, geboren in Gent, woont in Dorpstraat 13, Sint-Amandsberg."
+     - stdout: "De kat krabt de krollen van de trap"
+     - stdout: 'Robbe zei tegen vader "Zou je dat nou wel doen?".'
+     - stdout: "Isaura's nieuwe auto."
