@@ -1,0 +1,3 @@
+- tab: "Oplossing"
+  testcases:
+     - stdout: "De lengte van de tankwagen is 10.19 meter."
