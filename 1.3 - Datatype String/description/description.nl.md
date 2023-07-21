@@ -1,4 +1,4 @@
-**Gegeven:**
+## Gegeven
 
 In de voorgaande oefening lieten we 'Hello, World' verschijnen op het scherm door gebruik te maken van de console.log()-functie. 
 We bekijken de **syntax** van die code nog eens grondig. 
@@ -14,7 +14,8 @@ console.log(“Hello World!”);
 karakters, noemen we een **‘string’**.Een string beginnen we met een enkel of dubbel **‘- teken** en eindigen we met een **‘-teken.** Alles wat daartussen staat zal op het scherm verschijnen!
 
 {: .callout.callout-info}
->**Opgave: enkele of dubbele aanhalingstekens?** 
+>## Opgave
+>**enkele of dubbele aanhalingstekens?** 
 >Laat volgende **strings** op het scherm verschijnen: 
 >* De kat krabt de krollen van de trap; 
 >* Robbe zei tegen vader "Zou je dat nou wel doen?". 
