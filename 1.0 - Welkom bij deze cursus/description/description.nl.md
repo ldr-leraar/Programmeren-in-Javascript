@@ -27,7 +27,6 @@ jouw code in orde is.
 
 {: .callout.callout-success}
 >## Opgave
-
 >* Lees bovenstaande afspraken grondig; 
 >* Surf naar de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript); 
 >* Noteer daar onderstaande code en voer uit: 
