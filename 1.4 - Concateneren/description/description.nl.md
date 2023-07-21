@@ -22,18 +22,14 @@ console.log(voornaam);
 ```
 Verschijnt op het scherm de **data** die **opgeslagen** zit in de **variabele voornaam**
 
-
-## Opgave
-
+## Voorbeeld
 Bij de diensten van de Stad Gent vindt men onderstaande code terug: 
-
 ```
 //We kennen gegevens met datatype string toe aan een variabele: 
 var voornaam = 'Robbe'; 
 var familienaam = 'Wulgaert'; 
 var geboorteplaats = 'Gent'; 
-var adres = 'Koekoekstraat 77, Melle'; 
-
+>var adres = 'Koekoekstraat 77, Melle'; 
 //We printen deze gegevens via de console.log-functie naar het scherm:
 console.log(voornaam);
 console.log(familienaam);
@@ -42,10 +38,10 @@ console.log(adres);
 ```
 De vier gegevens worden **in sequentie**, een voor een en dus onder elkaar, op het scherm geschreven. 
 
-## Gevraagd
-
-We willen deze gegevens in één mooi verzorgde zin op het scherm zien verschijnen door **slechts één console.log-functie te gebruiken**, zoals bijvoorbeeld: 
-`Robbe Wulgaert, geboren in Gent, woont in de Koekstraat 77, Gent.`
+{: .callout.callout-success}
+>## Gevraagd
+>We willen deze gegevens in één mooi verzorgde zin op het scherm zien verschijnen door **slechts één console.log-functie te gebruiken**, >zoals bijvoorbeeld: 
+>`Robbe Wulgaert, geboren in Gent, woont in de Koekstraat 77, Gent.`
 
 ## Uitvoer
 Gebruik volgende gegevens (naam, voornaam, locatie ...): 
