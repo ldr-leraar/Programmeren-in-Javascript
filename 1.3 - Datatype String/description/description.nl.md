@@ -1,4 +1,4 @@
-![image](https://github.com/RobbeW/Programmeren-in-Javascript/assets/59528716/697c56e0-ddfe-41ec-94fd-b22caa8b5c2b)**Gegeven:**
+**Gegeven:**
 
 In de voorgaande oefening lieten we 'Hello, World' verschijnen op het scherm door gebruik te maken van de console.log()-functie. 
 We bekijken de **syntax** van die code nog eens grondig. 
