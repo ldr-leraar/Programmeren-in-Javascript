@@ -1,4 +1,4 @@
-**Gegeven:**
+## Gegeven
 
 Fred is tijdens zijn reis eventjes aan het werken. De lokale Wi-FI hotspot op de camping is heel traag. Om tijdens een lange download de tijd te doden, slaat Fred aan het schrijven van code. 
 Hij weet dat: 
@@ -13,7 +13,7 @@ Zijn downloadbestand is 6.66 gigabyte groot.
 <img src="https://miro.medium.com/max/1400/1*L334tY40QbIp6CYdiyeOVw.jpeg" width="50%"/>
 
 
-**Gevraagd:**
+## Gevraagd
 
 Schrijf een kleine tool om uit te drukken hoeveel bits, bytes, kilobytes, megabytes ... groot het bestand van Fred is. 
 
