@@ -17,10 +17,9 @@ Met een `console.log` statement kunnen we dus iets op ons scherm laten verschijn
 
 Gebruik je geen `console.log`, dan zal jouw code nog steeds werken, maar de uitvoer of output zal niet verschijnen op het scherm van de gebruiker. Zie het als een rekenmachine zonder LCD. Jouw berekening zal wellicht kloppen, maar als het resultaat niet op het scherm verschijnt, is het niet zo een handige rekenmachine! 
 
-
-## Opdracht
-
-* Schrijf een coderegel die jouw voornaam op het scherm laat verschijnen; 
-* Schrijf een coderegel die jouw familienaam op het scherm laat verschijnen; 
-* Maak gebruik van de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript) om jouw code uit te testen en te **debuggen**; 
-* Dien daarna jouw code in via de Dodona-omgeving. 
+{: .callout.callout-info}
+>## Opdracht
+>* Schrijf een coderegel die jouw voornaam op het scherm laat verschijnen; 
+>* Schrijf een coderegel die jouw familienaam op het scherm laat verschijnen; 
+>* Maak gebruik van de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript) om jouw code uit te testen en te **debuggen**; 
+>* Dien daarna jouw code in via de Dodona-omgeving. 
