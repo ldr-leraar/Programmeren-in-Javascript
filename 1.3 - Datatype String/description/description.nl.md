@@ -1,4 +1,4 @@
-**Gegeven:**
+![image](https://github.com/RobbeW/Programmeren-in-Javascript/assets/59528716/697c56e0-ddfe-41ec-94fd-b22caa8b5c2b)**Gegeven:**
 
 In de voorgaande oefening lieten we 'Hello, World' verschijnen op het scherm door gebruik te maken van de console.log()-functie. 
 We bekijken de **syntax** van die code nog eens grondig. 
@@ -13,12 +13,12 @@ console.log(“Hello World!”);
 * Die "Hello, World" is onze zin die we willen laten verschijnen op het scherm. Deze zin, of reeks van
 karakters, noemen we een **‘string’**.Een string beginnen we met een enkel of dubbel **‘- teken** en eindigen we met een **‘-teken.** Alles wat daartussen staat zal op het scherm verschijnen!
 
-**Opgave: enkele of dubbele aanhalingstekens?** 
-
-Laat volgende **strings** op het scherm verschijnen: 
-* De kat krabt de krollen van de trap; 
-* Robbe zei tegen vader "Zou je dat nou wel doen?". 
-* Isaura's nieuwe auto. 
-* Maak gebruik van de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript) om jouw code uit te testen en te **debuggen**; 
-* Dien daarna jouw code in via de Dodona-omgeving. 
+{: .callout.callout-info}
+>**Opgave: enkele of dubbele aanhalingstekens?** 
+>Laat volgende **strings** op het scherm verschijnen: 
+>* De kat krabt de krollen van de trap; 
+>* Robbe zei tegen vader "Zou je dat nou wel doen?". 
+>* Isaura's nieuwe auto. 
+>* Maak gebruik van de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript) om jouw code uit te testen en te **debuggen**; 
+>* Dien daarna jouw code in via de Dodona-omgeving. 
 
