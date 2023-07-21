@@ -6,9 +6,9 @@ deze regel code, de 'hello world'-opdracht, de allereerste oefening zijn. Een tr
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Hello_World_Brian_Kernighan_1978.jpg"/>
 
-## Opgave
-
- * Maak gebruik van de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript) om jouw code uit te testen. 
- * Noteer de Javascript-code om `Hello, World!` op het scherm te laten verschijnen;
- * Gebruik hiervoor de `console.log()`-functie;
- * Dien daarna jouw code hier in. 
+{: .callout.callout-info}
+>## Opgave
+>* Maak gebruik van de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript) om jouw code uit te testen. 
+>* Noteer de Javascript-code om `Hello, World!` op het scherm te laten verschijnen;
+>* Gebruik hiervoor de `console.log()`-functie;
+>* Dien daarna jouw code hier in. 
