@@ -43,10 +43,11 @@ De vier gegevens worden **in sequentie**, een voor een en dus onder elkaar, op h
 >We willen deze gegevens in één mooi verzorgde zin op het scherm zien verschijnen door **slechts één console.log-functie te gebruiken**, >zoals bijvoorbeeld: 
 >`Robbe Wulgaert, geboren in Gent, woont in de Koekstraat 77, Gent.`
 
-## Uitvoer
-Gebruik volgende gegevens (naam, voornaam, locatie ...): 
-`Helmut Lotti, geboren in Gent, woont in de Dorpstraat 13, Sint-Amandsberg.` 
 
-* Schrijf jouw code; 
-* Maak gebruik van de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript) om jouw code uit te testen en te **debuggen**; 
-* Dien daarna jouw code in via de Dodona-omgeving. 
+>Gebruik volgende gegevens (naam, voornaam, locatie ...): 
+>`Helmut Lotti, geboren in Gent, woont in de Dorpstraat 13, Sint-Amandsberg.` 
+
+
+>* Schrijf jouw code; 
+>* Maak gebruik van de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript) om jouw code uit te testen en te **debuggen**; 
+>* Dien daarna jouw code in via de Dodona-omgeving. 
