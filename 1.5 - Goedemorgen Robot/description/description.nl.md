@@ -13,9 +13,9 @@ Goedemorgen mevr. Deleye, vandaag heeft u op de planning: vergadering met region
 Goedemorgen mr. Lantmeeters, vandaag heeft u op de planning: beklimming Belfort met Erasmus+groep uit Portugal. 
 ```
 
-## Gevraagd
-
-* Gebruik je kennis van **variabelen, strings en concatenatie** om bovenstaande voorbeelden te schrijven in Javascriptcode. 
-* Zorg dat jouw oplossing **leesbaar en functioneel** is! 
-* Maak gebruik van de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript) om jouw code uit te testen en te **debuggen**; 
-* Dien daarna jouw code in via de Dodona-omgeving. 
+{: .callout.callout-success}
+>## Gevraagd
+>* Gebruik je kennis van **variabelen, strings en concatenatie** om bovenstaande voorbeelden te schrijven in Javascriptcode. 
+>* Zorg dat jouw oplossing **leesbaar en functioneel** is! 
+>* Maak gebruik van de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript) om jouw code uit te testen en te **debuggen**; 
+>* Dien daarna jouw code in via de Dodona-omgeving. 
