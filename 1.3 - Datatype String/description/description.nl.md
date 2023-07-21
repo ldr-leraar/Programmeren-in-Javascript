@@ -15,7 +15,7 @@ karakters, noemen we een **‘string’**.Een string beginnen we met een enkel o
 
 {: .callout.callout-info}
 >## Opgave
->**enkele of dubbele aanhalingstekens?** 
+>**Enkele of dubbele aanhalingstekens?** 
 >Laat volgende **strings** op het scherm verschijnen: 
 >* De kat krabt de krollen van de trap; 
 >* Robbe zei tegen vader "Zou je dat nou wel doen?". 
