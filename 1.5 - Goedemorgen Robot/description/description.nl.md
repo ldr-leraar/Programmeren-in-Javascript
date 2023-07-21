@@ -13,7 +13,7 @@ Goedemorgen mevr. Deleye, vandaag heeft u op de planning: vergadering met region
 Goedemorgen mr. Lantmeeters, vandaag heeft u op de planning: beklimming Belfort met Erasmus+groep uit Portugal. 
 ```
 
-{: .callout.callout-success}
+{: .callout.callout-info}
 >## Gevraagd
 >* Gebruik je kennis van **variabelen, strings en concatenatie** om bovenstaande voorbeelden te schrijven in Javascriptcode. 
 >* Zorg dat jouw oplossing **leesbaar en functioneel** is! 
