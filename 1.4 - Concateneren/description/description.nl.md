@@ -38,7 +38,7 @@ console.log(adres);
 ```
 De vier gegevens worden **in sequentie**, een voor een en dus onder elkaar, op het scherm geschreven. 
 
-{: .callout.callout-success}
+{: .callout.callout-info}
 >## Gevraagd
 >We willen deze gegevens in één mooi verzorgde zin op het scherm zien verschijnen door **slechts één console.log-functie te gebruiken**, >zoals bijvoorbeeld: 
 >`Robbe Wulgaert, geboren in Gent, woont in de Koekstraat 77, Gent.`
