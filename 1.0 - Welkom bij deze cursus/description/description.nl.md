@@ -31,13 +31,7 @@ jouw code in orde is.
 >* Lees bovenstaande afspraken grondig; 
 >* Surf naar de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript); 
 >* Noteer daar onderstaande code en voer uit: 
-
-
->```
->console.log("Ik begrijp het!");
-
->```
-
+>```console.log("Ik begrijp het!");```
 >* Dien daarna jouw code in via de Dodona-omgeving. 
 
 
