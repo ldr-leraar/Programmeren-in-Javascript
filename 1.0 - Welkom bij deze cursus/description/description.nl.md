@@ -25,20 +25,20 @@ jouw code in orde is.
 * Dodona is, voor de **Javascript-programmeertaal** een omgeving om oplossingen in te dienen. Niet om ze te testen! 
 * Wil je een oefening testen, dan gebruik je de **Papyros-omgeving**. Deze is van dezelfde makers als Dodona, maar daar kan je code naar hartelust testen. 
 
+{: .callout.callout-success}
+>## Opgave
 
-## Opgave
-
-* Lees bovenstaande afspraken grondig; 
-* Surf naar de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript); 
-* Noteer daar onderstaande code en voer uit: 
+>* Lees bovenstaande afspraken grondig; 
+>* Surf naar de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript); 
+>* Noteer daar onderstaande code en voer uit: 
 
 
-```
-console.log("Ik begrijp het!");
+>```
+>console.log("Ik begrijp het!");
 
-```
+>```
 
-* Dien daarna jouw code in via de Dodona-omgeving. 
+>* Dien daarna jouw code in via de Dodona-omgeving. 
 
 
 ---
