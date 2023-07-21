@@ -44,7 +44,7 @@ De vier gegevens worden **in sequentie**, een voor een en dus onder elkaar, op h
 >`Robbe Wulgaert, geboren in Gent, woont in de Koekstraat 77, Gent.`
 
 
->Gebruik volgende gegevens (naam, voornaam, locatie ...): 
+>Gebruik volgende gegevens (naam, voornaam, locatie ...):
 >`Helmut Lotti, geboren in Gent, woont in de Dorpstraat 13, Sint-Amandsberg.` 
 
 
