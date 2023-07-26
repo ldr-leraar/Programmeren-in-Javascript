@@ -1,7 +1,4 @@
-**4.1 - Etappelijst**
-
-
-**Gegeven:**
+## Gegeven
 
 Tijdens de rondrit in Frankrijk wil Fred een lijst aanleggen met dorpjes die hij heeft bezocht. Zo kan hij een mooie lijst met aanbevelingen doorgeven 
 aan vrienden en familie. Wanneer hij de stops op zijn GPS telt, heeft hij **5 tussentops gemaakt.** Hij wil een oplossing ontwerpen die hem **telkens vraagt naar 
@@ -39,11 +36,11 @@ Fred hield halt in volgende dorpen:
 
 <img src="https://images.pexels.com/photos/2996306/pexels-photo-2996306.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width="50%"/>
 
-**Gevraagd:**
-
-* Schrijf een oplossing waarbij de gebruiker de naam van een dorp moet invoeren; 
-* Gebruik de code hierboven, maar pas aan waar nodig!; 
-* Print het eindresultaat op het scherm en stuur zo een bericht naar de mama van Fred; 
-* Een correcte volzin bevat een onderwerp, een werkwoord ...;
-* Maak gebruik van de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript) om jouw code uit te testen en te debuggen;
-* Dien daarna jouw oplossing in via de Dodona-omgeving. 
+{: .callout.callout-info}
+> ## Gevraagd
+> * Schrijf een oplossing waarbij de gebruiker de naam van een dorp moet invoeren; 
+> * Gebruik de code hierboven, maar pas aan waar nodig!; 
+> * Print het eindresultaat op het scherm en stuur zo een bericht naar de mama van Fred; 
+> * Een correcte volzin bevat een onderwerp, een werkwoord ...;
+> * Maak gebruik van de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript) om jouw code uit te testen en te debuggen;
+> * Dien daarna jouw oplossing in via de Dodona-omgeving. 
