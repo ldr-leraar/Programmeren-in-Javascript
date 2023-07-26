@@ -1,5 +1,3 @@
-**4.0 - De Begrensde Herhaling**
-
 Wanneer we **computationeel denken**, ontleden we een probleem en doen we aan **patroonherkenning**. Een van de patronen die we zo kunnen herkennen is een herhaling. 
 Bij het programmeren zijn er twee courante herhalingen: de begrensde en voorwaardelijke herhaling. 
 
@@ -39,9 +37,9 @@ for (var teller = 10; teller > 0; teller--) {
 
 <img src="https://images.pexels.com/photos/41005/rocket-launch-rocket-take-off-soyuz-41005.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width="50%"/>
 
-**Gevraagd:**
-
-* Schrijf een oplossing waarbij een countdown op het scherm verschijnt; 
-* Wanneer de teller nul bereikt, verschijnt het woord 'LANCERING'; 
-* Maak gebruik van de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript) om jouw code uit te testen en te debuggen;
-* Dien daarna jouw oplossing in via de Dodona-omgeving. 
+{: .callout.callout-info}
+> ## Gevraagd
+> * Schrijf een oplossing waarbij een countdown op het scherm verschijnt; 
+> * Wanneer de teller nul bereikt, verschijnt het woord 'LANCERING'; 
+> * Maak gebruik van de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript) om jouw code uit te testen en te debuggen;
+> * Dien daarna jouw oplossing in via de Dodona-omgeving. 
