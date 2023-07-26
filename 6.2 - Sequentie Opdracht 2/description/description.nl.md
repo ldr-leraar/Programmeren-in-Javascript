@@ -1,4 +1,4 @@
-**Opgave:**
+## Opgave
 
 Fred moet ook de middelcirkel tekenen op het veld. Een middencirkel heeft een straal van 9.15 meter. 
 
