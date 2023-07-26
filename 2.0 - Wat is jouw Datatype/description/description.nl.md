@@ -22,10 +22,10 @@ console.log('Uw nieuw saldo bedraagt ' + rekening + ' euro.')
 
 <img src = "https://images.pexels.com/photos/5699376/pexels-photo-5699376.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width = "50%"/>
 
-## Gevraagd
-
-* Bekijk het **algoritme** van de bankterminal hierboven grondig; 
-* Wat loopt er mis bij dit automaat en waarom?
-* Ontwerp een eigen oplossing die **leesbaar en functioneel** is! 
-* Maak gebruik van de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript) om jouw code uit te testen en te **debuggen**; 
-* Dien daarna jouw code in via de Dodona-omgeving. 
+{: .callout.callout-info}
+> ## Gevraagd
+> * Bekijk het **algoritme** van de bankterminal hierboven grondig; 
+> * Wat loopt er mis bij dit automaat en waarom?
+> * Ontwerp een eigen oplossing die **leesbaar en functioneel** is! 
+> * Maak gebruik van de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript) om jouw code uit te testen en te **debuggen**; 
+> * Dien daarna jouw code in via de Dodona-omgeving. 
