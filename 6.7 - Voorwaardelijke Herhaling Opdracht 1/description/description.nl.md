@@ -1,4 +1,4 @@
-**Opgave:**
+## Opgave
 
 In een reservaat zit een kudde van 120 antilopen. De kudde groeit jaarlijks met zo een 6% aan. 
 
