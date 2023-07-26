@@ -1,5 +1,3 @@
-**3.6 - Hittegolf**
-
 Wanneer we werken met **programmeerconcepten** zoals IF en ELSE IF, maken we gebruik van **voorwaarden**. Wanneer aan de voorwaarde is voldaan, 
 dan worden de acties die horen bij die functie uitgevoerd. 
 
@@ -23,7 +21,7 @@ if (dag1 >= 25 && dag2 >= 25) {
 }
 ```
 
-**Gegeven:**
+## Gegeven
 
 Tijdens de zomer werd het heel warm. Doorheen Europa sloeg de ene na de andere hittegolf toe. Dat voel je zeker wanneer je kampeert in een tent. 
 
@@ -91,12 +89,11 @@ Fred verzamelt een aantal metingen uit de kranten en stelt volgende tabel samen:
 <td>19,0&nbsp;°C
 </td></tr></table>
 
-
-**Gevraagd:**
-
-* Schrijf een algoritme en code waarmee Fred de temperatuur voor vijf dagen kan invoeren; 
-* Gebruik de tabel hierboven;  
-* Maak gebruik van een **IF-functie met de && operator**; 
-* Maak gebruik van de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript) om jouw code uit te testen en te debuggen;
-* Welke van bovenstaande periodes is geen officiële hittegolf?
-* Dien daarna jouw oplossing in via de Dodona-omgeving. 
+{: .callout.callout-info}
+> ## Gevraagd
+> * Schrijf een algoritme en code waarmee Fred de temperatuur voor vijf dagen kan invoeren; 
+> * Gebruik de tabel hierboven;  
+> * Maak gebruik van een **IF-functie met de && operator**; 
+> * Maak gebruik van de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript) om jouw code uit te testen en te debuggen;
+> * Welke van bovenstaande periodes is geen officiële hittegolf?
+> * Dien daarna jouw oplossing in via de Dodona-omgeving. 
