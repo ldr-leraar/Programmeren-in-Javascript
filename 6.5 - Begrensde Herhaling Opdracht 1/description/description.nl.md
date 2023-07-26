@@ -1,4 +1,4 @@
-**Gegeven:** 
+## Opgave
 
 Schrijf een programma dat 40 worpen met twee dobbelstenen simuleert. Nadien verschtijnt het **gemiddelde** van de 40 worpen op het scherm. 
 
