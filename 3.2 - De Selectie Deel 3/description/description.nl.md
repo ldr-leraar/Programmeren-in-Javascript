@@ -1,4 +1,4 @@
-## 3.2 - De Selectie Deel 3: De IF ELSE-Functie
+## De IF ELSE-Functie
 
 Naast de **IF-functie** en **ELSE-functie** bestaat er ook een **IF ELSE-functie**. Soms wil je meerdere IF-Functies na elkaar gebruiken. 
 Dan kan een **IF ELSE-functie** van pas komen! Die functie heeft een eigen voorwaarde. 
