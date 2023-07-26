@@ -1,4 +1,4 @@
-**3.1 - De Selectie Deel 2: De ELSE-functie**
+## 3.1 - De Selectie Deel 2: De ELSE-functie
 
 In de vorige oefening maakte je kennis met de **IF-functie**. Deze bevat een **voorwaarde** en acties die uitgevoerd worden wanneer aan de **voorwaarde** is voldaan. 
 Naast de **IF-functie** kunnen we ook gebruikmaken van de **ELSE-functie**. Wanneer **niet voldaan wordt aan de voorwaarde van de IF-functie**, kan de computer
@@ -19,7 +19,7 @@ actie uitvoeren;
 ```
 
 
-**Voorbeeld in Javascript:**
+## Voorbeeld in Javascript
 
 We bouwden in de vorige oefening een programma dat ons kon vertellen of een getal even of oneven was. Je vindt hieronder de code terug.
 
@@ -31,9 +31,10 @@ console.log('Het getal ' + getal + ' is een even getal.' );
 }
 ```
 
-**Gevraagd:**
-* Pas bovenstaande algoritme aan zodat de computer kan vertellen of een getal even of oneven is;
-* Gebruik slechts 1 **IF-functie**; 
-* Maak gebruik van de **ELSE-functie**
-* Maak gebruik van de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript) om jouw code uit te testen en te debuggen;
-* Dien daarna jouw oplossing in via de Dodona-omgeving. 
+{: .callout.callout-info}
+> ## Gevraagd
+> * Pas bovenstaande algoritme aan zodat de computer kan vertellen of een getal even of oneven is;
+> * Gebruik slechts 1 **IF-functie**; 
+> * Maak gebruik van de **ELSE-functie**
+> * Maak gebruik van de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript) om jouw code uit te testen en te debuggen;
+> * Dien daarna jouw oplossing in via de Dodona-omgeving. 
