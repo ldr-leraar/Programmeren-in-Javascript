@@ -1,4 +1,4 @@
-**5.0 - De Voorwaardelijke Herhaling**
+## De Voorwaardelijke Herhaling
 
 Wanneer we **computationeel denken**, ontleden we een probleem en doen we aan **patroonherkenning**. Een van de patronen die we zo kunnen herkennen is een herhaling. 
 Bij het programmeren zijn er twee courante herhalingen: de begrensde en voorwaardelijke herhaling. 
@@ -36,10 +36,9 @@ while (startwaarde > 500000) {
 ```
 
 
-
-**Gevraagd:**
-
-* Vul bovenstaande code verder aan; 
-* Na hoeveel dagen zal de helft van het ijs zijn weggesmolten? 
-* Maak gebruik van de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript) om jouw code uit te testen en te debuggen;
-* Dien daarna jouw oplossing in via de Dodona-omgeving. 
+{: .callout.callout-info}
+> ## Gevraagd
+> * Vul bovenstaande code verder aan; 
+> * Na hoeveel dagen zal de helft van het ijs zijn weggesmolten? 
+> * Maak gebruik van de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript) om jouw code uit te testen en te debuggen;
+> * Dien daarna jouw oplossing in via de Dodona-omgeving. 
