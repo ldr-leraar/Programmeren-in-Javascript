@@ -1,4 +1,4 @@
-**Wat zijn operators?**
+## Wat zijn operatoren?**
 
 
 Computers staan gekend om hun grote rekenkracht. Het zijn, kort door de bocht, grote rekenmachines die rekensommen kunnen
@@ -31,7 +31,7 @@ console.log(x % z); // ...
 
 ```
 
-**Gevraagd:**
+## Gevraagd:
 
 * Test bovenstaande code uit; 
 * Gebruik hiervoor de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript) om jouw code uit te testen en te **debuggen**; 
