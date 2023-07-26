@@ -7,6 +7,7 @@ De auto van Fred is bij vertrek 100% opgeladen.
 
 <img src="https://images.pexels.com/photos/9800002/pexels-photo-9800002.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width="50%"/>
 
+
 {: .callout.callout-info}
 > ## Gevraagd
 > Fred besluit komende dagen vier etappes te rijden van elk 112.34km. Hoeveel blijft er nadien nog over in de batterij van zijn wagen? 
