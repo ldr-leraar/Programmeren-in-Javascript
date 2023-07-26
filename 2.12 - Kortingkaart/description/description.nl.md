@@ -22,12 +22,11 @@ var bedrag2 = 18
 "Het totale te betalen bedrag is ... euro."
 ```
 
-## Gevraagd
-
-Schrijf de code om het totale te betalen bedrag, met verrekende korting, op het scherm te laten verschijnen. 
-
-* Gebruik je kennis van **variabelen, operatoren en de console.log-functie** in Javascriptcode;
-* Tip: maak eerst de som van de bedragen;
-* Print het antwoord in een volzin naar het scherm. De volzin bevat een onderwerp, werkwoordsvorm en eenheid (euro)
-* Maak gebruik van de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript) om jouw code uit te testen en te **debuggen**; 
-* Dien daarna jouw code in via de Dodona-omgeving. 
+{: .callout.callout-info}
+> ## Gevraagd
+> Schrijf de code om het totale te betalen bedrag, met verrekende korting, op het scherm te laten verschijnen. 
+> * Gebruik je kennis van **variabelen, operatoren en de console.log-functie** in Javascriptcode;
+> * Tip: maak eerst de som van de bedragen;
+> * Print het antwoord in een volzin naar het scherm. De volzin bevat een onderwerp, werkwoordsvorm en eenheid (euro)
+> * Maak gebruik van de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript) om jouw code uit te testen en te **debuggen**; 
+> * Dien daarna jouw code in via de Dodona-omgeving. 
