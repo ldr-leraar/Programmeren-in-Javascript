@@ -12,12 +12,10 @@ Zijn downloadbestand is 6.66 gigabyte groot.
 
 <img src="https://miro.medium.com/max/1400/1*L334tY40QbIp6CYdiyeOVw.jpeg" width="50%"/>
 
-
-## Gevraagd
-
-Schrijf een kleine tool om uit te drukken hoeveel bits, bytes, kilobytes, megabytes ... groot het bestand van Fred is. 
-
-* Gebruik je kennis van **variabelen, operatoren en de console.log-functie** in Javascriptcode;
-* Print het antwoord in een volzin naar het scherm. De volzin bevat een onderwerp, werkwoordsvorm en eenheid (bits, bytes, kilobytes ...); 
-* Maak gebruik van de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript) om jouw code uit te testen en te **debuggen**; 
-* Dien daarna jouw code in via de Dodona-omgeving. 
+{: .callout.callout-info}
+> ## Gevraagd
+> Schrijf een kleine tool om uit te drukken hoeveel bits, bytes, kilobytes, megabytes ... groot het bestand van Fred is. 
+> * Gebruik je kennis van **variabelen, operatoren en de console.log-functie** in Javascriptcode;
+> * Print het antwoord in een volzin naar het scherm. De volzin bevat een onderwerp, werkwoordsvorm en eenheid (bits, bytes, kilobytes ...); 
+> * Maak gebruik van de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript) om jouw code uit te testen en te **debuggen**; 
+> * Dien daarna jouw code in via de Dodona-omgeving. 
