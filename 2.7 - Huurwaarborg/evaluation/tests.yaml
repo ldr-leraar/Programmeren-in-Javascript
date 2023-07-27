@@ -1,0 +1,3 @@
+- tab: "Oplossing"
+  testcases:
+    - stdout: "Na vijf jaar krijgt Fred 2499.2895 euro terug van zijn waarborg.\n"
