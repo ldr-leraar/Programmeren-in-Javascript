@@ -1,0 +1,3 @@
+- tab: "Oplossing"
+  testcases:
+    - stdout: "De oppervlakte van het voetbalveld is 7140 vierkante meter.\n"
