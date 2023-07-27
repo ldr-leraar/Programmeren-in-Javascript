@@ -1,0 +1,3 @@
+- tab: "Oplossing"
+  testcases:
+    - stdout: "Fred moet dit jaar 826.8000000000001 euro betalen voor de elektriciteit.\nDit is 292.32000000000005 euro meer dan vorig jaar.\nIn procenten uitgedrukt, is dit een stijging van 54.69241131567132% ten opzichte van vorig jaar.\n"
