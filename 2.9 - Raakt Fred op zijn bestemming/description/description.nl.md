@@ -12,7 +12,8 @@ De auto van Fred is bij vertrek 100% opgeladen.
 > ## Gevraagd
 > Fred besluit komende dagen vier etappes te rijden van elk 112.34km. Hoeveel blijft er nadien nog over in de batterij van zijn wagen? 
 > Druk jouw resultaat uit in **kilometer** en **procent**! 
-> * Gebruik je kennis van **variabelen, operatoren en de console.log-functie** in Javascriptcode;
-> * Print het antwoord in een volzin naar het scherm. De volzin bevat een onderwerp, werkwoordsvorm en eenheid (kilometer en procent); 
+> * Print het antwoord naar het scherm in een volzin met volgend formaat:
+> * ```Na de vier etappes van elk ... km, blijft er nog ... kilometer over in de batterij van Freds wagen.```
+> * ```Dit komt overeen met ...% van de totale batterijcapaciteit.```
 > * Maak gebruik van de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript) om jouw code uit te testen en te **debuggen**; 
 > * Dien daarna jouw code in via de Dodona-omgeving. 
