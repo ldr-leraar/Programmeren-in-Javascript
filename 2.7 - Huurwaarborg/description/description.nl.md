@@ -15,6 +15,7 @@ Maar na die vijf jaar belooft de bank Fred wel een mooie interest van 19.87%.
 ## Gevraagd
 > Bereken het totaalbedrag dat Fred zal krijgen, na die vijf jaar, wanneer hij het geld van de waarborgrekening terug krijgt. 
 > * Gebruik je kennis van **variabelen, operatoren en de console.log-functie** in Javascriptcode;
-> * Print het antwoord in een volzin naar het scherm. De volzin bevat een onderwerp, werkwoordsvorm en eenheid; 
+> * Print het antwoord naar het scherm in een volzin met volgende vorm:
+> * ```Na vijf jaar krijgt Fred ... euro terug van zijn waarborg.```
 > * Maak gebruik van de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript) om jouw code uit te testen en te **debuggen**; 
 > * Dien daarna jouw code in via de Dodona-omgeving. 
