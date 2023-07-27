@@ -14,7 +14,9 @@ Zo betaalde Fred vorig jaar nog 44.54 euro per maand aan elektriciteit. Tegenwoo
 > * Het totaalbedrag dat Fred dit jaar (=12 maanden) zal moeten betalen; 
 > * Hoeveel hij meer moet betalen dan het jaar ervoor, uitgedrukt in euro; 
 > * Hoeveel hij meer moet betalen dan het jaar ervoor, uitgedrukt in procent. 
-> * Gebruik je kennis van **variabelen, operatoren en de console.log-functie** in Javascriptcode;
-> * Print het antwoord in een volzin naar het scherm. De volzin bevat een onderwerp, werkwoordsvorm en eenheid; 
+> * Print het antwoord naar het scherm in een volzin met volgend formaat:
+> * ```Fred moet dit jaar ... euro betalen voor de elektriciteit.```
+> * ```Dit is ... euro meer dan vorig jaar.```
+> * ```In procenten uitgedrukt, is dit een stijging van ...% ten opzichte van vorig jaar.```
 > * Maak gebruik van de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript) om jouw code uit te testen en te **debuggen**; 
 > * Dien daarna jouw code in via de Dodona-omgeving. 
