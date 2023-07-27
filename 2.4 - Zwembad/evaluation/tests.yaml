@@ -1,0 +1,3 @@
+- tab: "Oplossing"
+  testcases:
+    - stdout: "Het totale volume van het zwembad is 377.1 kubieke meter.\n"
