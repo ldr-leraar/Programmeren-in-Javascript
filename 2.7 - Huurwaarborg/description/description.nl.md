@@ -13,7 +13,7 @@ Maar na die vijf jaar belooft de bank Fred wel een mooie interest van 19.87%.
 
 {: .callout.callout-info}
 ## Gevraagd
-> Bereken het totaalbedrag dat Fred zal krijgen, na die vijf jaar, wanneer hij het geld van de waarborgrekening terug krijgt. 
+> * Bereken het totaalbedrag dat Fred zal krijgen, na die vijf jaar, wanneer hij het geld van de waarborgrekening terug krijgt. 
 > * Gebruik je kennis van **variabelen, operatoren en de console.log-functie** in Javascriptcode;
 > * Print het antwoord naar het scherm in een volzin met volgende vorm:
 > * ```Na vijf jaar krijgt Fred ... euro terug van zijn waarborg.```
