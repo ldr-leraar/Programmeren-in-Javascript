@@ -35,5 +35,5 @@ console.log('Het getal ' + getal + ' is een even getal.' );
 > ## Gevraagd
 > * Maak gebruik van de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript) om bovenstaande code uit te testen; 
 > * Bekijk de code: er wordt gebruik gemaakt van enkelvoudige en dubbele gelijkheidstekens. Deze hebben elk een andere functie, welke? 
-> * Pas de code aan zodat je oneven getallen kan opsporen;
+> * Pas de code aan zodat je het oneven getal 5 (`var getal = 5`) kan opsporen;
 > * Dien daarna jouw aangepaste code, waarmee je oneven getallen kan opsporen, in via de Dodona-omgeving. 
