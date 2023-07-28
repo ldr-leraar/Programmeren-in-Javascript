@@ -1,5 +1,3 @@
-## 3.3 - Tolwegen in Frankrijk
-
 ## Gegeven
 
 Wanneer je een rondrit maakt doorheen Frankrijk, kan je soms op tolwegen terecht komen. Dit zijn wegen die heel goed onderhouden zijn, 
@@ -24,6 +22,7 @@ Tijdens de rondrit moet Fred zo een tolweg gebruiken. Hij staat aan een tussenst
 {: .callout.callout-info}
 > ## Gevraagd
 > * Schrijf een algoritme en code waarmee je kan bepalen hoeveel moet worden betaald; 
-> * Maak gebruik van de IF, ELSE en ELSE IF-functies; 
+> * Maak gebruik van de IF, ELSE en ELSE IF-functies;
+> * Test jouw code door het type auto van Fred in te voeren. (`var type = 'Auto met elektrische motor'`)
 > * Maak gebruik van de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript) om jouw code uit te testen en te debuggen;
 > * Dien daarna jouw oplossing in via de Dodona-omgeving. 
