@@ -36,5 +36,6 @@ console.log('Het getal ' + getal + ' is een even getal.' );
 > * Pas bovenstaande algoritme aan zodat de computer kan vertellen of een getal even of oneven is;
 > * Gebruik slechts 1 **IF-functie**; 
 > * Maak gebruik van de **ELSE-functie**
+> * Stel variabele getal in op 4 (`var getal = 4`)
 > * Maak gebruik van de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript) om jouw code uit te testen en te debuggen;
 > * Dien daarna jouw oplossing in via de Dodona-omgeving. 
