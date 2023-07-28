@@ -1,0 +1,12 @@
+- tab: "Oplossing"
+  testcases:
+    - stdin: "10"
+      stdout: "Je bent minderjarig"
+    - stdin: "30"
+      stdout: "Je bent volwassen"
+    - stdin: "70"
+      stdout: "Je bent een senior"
+    - stdin: "-5"
+      stdout: "Ongeldige leeftijd"
+    - stdin: "130"
+      stdout: "Ongeldige leeftijd"
