@@ -10,8 +10,8 @@ Op zijn camping nabij Nice maakt hij verbinding met een Wi-Fi Access Point. Het 
 {: .callout.callout-info}
 > ## Gevraagd
 > * Schrijf een algoritme en code waar je een wachtwoord (== een string) moet invullen;
-> * Wanneer het wachtwoord correct is ingevuld, verschijnt op het scherm "Verbinding gelukt"; 
-> * Wanneer het wachtwoord niet correct is ingevuld, verschijnt op het scherm "Verbinding mislukt"; 
+> * Wanneer het wachtwoord correct is ingevuld, verschijnt op het scherm `"Verbinding gelukt"`; 
+> * Wanneer het wachtwoord niet correct is ingevuld, verschijnt op het scherm `"Verbinding mislukt"`; 
 > * Maak gebruik van de IF, ELSE en/of ELSE IF-functies; 
 > * Maak gebruik van de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript) om jouw code uit te testen en te debuggen;
 > * Dien daarna jouw oplossing in via de Dodona-omgeving. 
