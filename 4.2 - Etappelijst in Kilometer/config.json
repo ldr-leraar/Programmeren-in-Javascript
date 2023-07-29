@@ -10,7 +10,7 @@
   },
   "evaluation": {
     "memory_limit": 500000000,
-    "plan_name": "tests.yaml",
+    "plan_name": "empty.tson",
     "handler": "TESTed",
     "options": {
       "allow_fallback": false
