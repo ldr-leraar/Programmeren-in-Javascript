@@ -1,9 +1,9 @@
-Wanneer we **computationeel denken**, ontleden we een probleem en doen we aan **patroonherkenning**. Een van de patronen die we zo kunnen herkennen is een herhaling. 
-Bij het programmeren zijn er twee courante herhalingen: de begrensde en voorwaardelijke herhaling. 
+Wanneer we **computationeel denken**, ontleden we een probleem en doen we aan **patroonherkenning**. Een van de patronen die we zo kunnen herkennen is een **herhaling.** 
+Bij het programmeren zijn er twee courante herhalingen: de **begrensde** en **voorwaardelijke herhaling.**
 
 De **Begrensde Herhaling** is een herhaling waarvan wij, **op voorhand**, precies weten hoeveel keer een of meerdere acties moet worden uitgevoerd. 
 
-**Bijvoorbeeld:**
+## Bijvoorbeeld:
 
 Bij de lanceren van een raket wordt gewerkt met een countdownteller. Deze telt af van tien naar nul en toont telkens een cijfer op het scherm. 
 In plaats van nul verschijnt op het scherm: LANCERING!
