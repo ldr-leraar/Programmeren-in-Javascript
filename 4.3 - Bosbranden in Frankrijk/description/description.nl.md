@@ -11,8 +11,8 @@ Elke dag brandt er een rechthoekig stuk bos af met lengte 329 meter en breedte 2
 > ## Gevraagd
 > * Fred wil, voor een week van 7 dagen, berekenen hoeveel bos is afgebrand;
 > * Print elke dag een tussenstand naar het scherm in een volzin met volgend format:
-> ** `Op dag 1 is er ... vierkante meter bos afgebrand.`
-> ** `Op dag 1 is er ... vierkante meter bos afgebrand.`
+> * `Op dag 1 is er ... vierkante meter bos afgebrand.`
+> * `Op dag 2 is er ... vierkante meter bos afgebrand.`
 > * Een correcte volzin bevat een onderwerp, een werkwoord en een eenheid (=euro);
 > * Maak gebruik van de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript) om jouw code uit te testen en te debuggen;
 > * Dien daarna jouw oplossing in via de Dodona-omgeving. 
