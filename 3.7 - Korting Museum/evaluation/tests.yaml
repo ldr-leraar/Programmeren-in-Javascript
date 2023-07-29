@@ -1,0 +1,4 @@
+- tab: "Oplossing"
+  testcases:
+    - stdout: "De toegangsprijs is 4 euro."
+
