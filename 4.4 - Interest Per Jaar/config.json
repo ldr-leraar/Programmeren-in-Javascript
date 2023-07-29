@@ -4,8 +4,8 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "4.4 - Interest Per Jaar",
-      "en": "4.4 - Interest Per Year"
+      "nl": "Interest Per Jaar",
+      "en": "Interest Per Year"
     }
   },
   "evaluation": {
@@ -16,7 +16,7 @@
       "allow_fallback": false
     }
   },
-  "labels": [
+  "labels": ["Robbe Wulgaert", "JavaScript", "Sint-Lievenscollege Gent", "www.robbewulgaert.be"
 
   ],
   "internals": {
