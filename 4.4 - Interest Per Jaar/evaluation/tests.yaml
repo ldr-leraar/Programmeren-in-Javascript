@@ -1,0 +1,7 @@
+- tab: "Oplossing"
+  testcases:
+    - stdout: "Na jaar 1 is de waarborg gegroeid tot 2148.50 euro."
+    - stdout: "Na jaar 2 is de waarborg gegroeid tot 2213.95 euro."
+    - stdout: "Na jaar 3 is de waarborg gegroeid tot 2280.37 euro."
+    - stdout: "Na jaar 4 is de waarborg gegroeid tot 2348.78 euro."
+    - stdout: "Na jaar 5 is de waarborg gegroeid tot 2419.24 euro."
