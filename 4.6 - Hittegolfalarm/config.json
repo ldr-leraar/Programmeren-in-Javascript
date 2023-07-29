@@ -4,8 +4,8 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "4.6 - Hittegolfalarm",
-      "en": "4.6 - Heatwave Alert"
+      "nl": "Hittegolfalarm",
+      "en": "Heatwave Alert"
     }
   },
   "evaluation": {
@@ -16,7 +16,7 @@
       "allow_fallback": false
     }
   },
-  "labels": [
+  "labels": ["Robbe Wulgaert", "JavaScript", "Sint-Lievenscollege Gent", "www.robbewulgaert.be"
 
   ],
   "internals": {
