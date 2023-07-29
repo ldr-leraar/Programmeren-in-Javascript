@@ -20,7 +20,8 @@ De toegangsprijzen voor een museum:
 {: .callout.callout-info}
 > ## Gevraagd
 > * Schrijf een algoritme en code waarmee je kan bepalen hoeveel een bezoeker moet betalen; 
-> * Print de resultaten van de berekening naar het scherm in een volzin; 
-> * Een correcte volzin bevat een onderwerp, een werkwoord en een eenheid (=euro);
+> * Test jouw algoritme gronding voor de drie scenario's;
+> * Zorg voor een verzorgde volzin bij elke uitkomst;
+> * Een correcte volzin in volgend format: `De toegangsprijs is ... euro.`
 > * Maak gebruik van de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript) om jouw code uit te testen en te debuggen;
 > * Dien daarna jouw oplossing in via de Dodona-omgeving. 
