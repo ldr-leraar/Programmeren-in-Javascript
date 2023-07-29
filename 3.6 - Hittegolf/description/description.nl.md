@@ -1,3 +1,5 @@
+## Voorwaarden combineren
+
 Wanneer we werken met **programmeerconcepten** zoals IF en ELSE IF, maken we gebruik van **voorwaarden**. Wanneer aan de voorwaarde is voldaan, 
 dan worden de acties die horen bij die functie uitgevoerd. 
 
@@ -91,9 +93,9 @@ Fred verzamelt een aantal metingen uit de kranten en stelt volgende tabel samen:
 
 {: .callout.callout-info}
 > ## Gevraagd
-> * Schrijf een algoritme en code waarmee Fred de temperatuur voor vijf dagen kan invoeren; 
-> * Gebruik de tabel hierboven;  
+> * Gebruik de tabel hierboven en ontwerp een algoritme waar je vijf temperaturen in vijf variabelen bewaart; 
 > * Maak gebruik van een **IF-functie met de && operator**; 
 > * Maak gebruik van de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript) om jouw code uit te testen en te debuggen;
-> * Welke van bovenstaande periodes is geen officiële hittegolf?
+> * Als er een hittegolf is, verschijnt: `Er is een hittegolf.` op het scherm;
+> * Als er géén hittegolf is, verschijnt: `Er is geen hittegolf.` op het scherm;
 > * Dien daarna jouw oplossing in via de Dodona-omgeving. 
