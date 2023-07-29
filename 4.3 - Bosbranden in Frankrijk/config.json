@@ -4,13 +4,13 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "4.3 - Bosbranden in Frankrijk",
-      "en": "4.3 - Forestfires in France"
+      "nl": "Bosbranden in Frankrijk",
+      "en": "Forestfires in France"
     }
   },
   "evaluation": {
     "memory_limit": 500000000,
-    "plan_name": "empty.tson",
+    "plan_name": "tests.yaml",
     "handler": "TESTed",
     "options": {
       "allow_fallback": false
