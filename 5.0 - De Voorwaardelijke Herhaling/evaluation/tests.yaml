@@ -1,0 +1,3 @@
+- tab: "Oplossing"
+  testcases:
+    - stdout: "Na 19 dagen zal de helft van het ijs zijn weggesmolten."
