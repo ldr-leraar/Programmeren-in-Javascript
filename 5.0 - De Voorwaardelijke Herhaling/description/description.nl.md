@@ -5,7 +5,7 @@ Bij het programmeren zijn er twee courante herhalingen: de begrensde en voorwaar
 
 De **Voorwaardelijke Herhaling** is een herhaling waarvan wij, **niet op voorhand**, weten hoeveel keer een of meerdere acties moet worden uitgevoerd. 
 
-**Bijvoorbeeld:**
+## Bijvoorbeeld:
 
 Door de opwarming van de aarde smelt elke dag zo een 3.6% van het ijs op enkele bergtoppen. Er ligt daar momenteel 1.000.000 kubieke meter ijs. 
 Hoeveel dagen tot de helft van ijs is weggesmolten? 
