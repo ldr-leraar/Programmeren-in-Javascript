@@ -4,8 +4,8 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "4.7 - Gemiddelde Score Kerstrapport",
-      "en": "4.7 - Average Score"
+      "nl": "Gemiddelde Score Kerstrapport",
+      "en": "Average Score"
     }
   },
   "evaluation": {
@@ -16,7 +16,7 @@
       "allow_fallback": false
     }
   },
-  "labels": [
+  "labels": ["Robbe Wulgaert", "JavaScript", "Sint-Lievenscollege Gent", "www.robbewulgaert.be"
 
   ],
   "internals": {
