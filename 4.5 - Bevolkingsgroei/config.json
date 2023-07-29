@@ -4,19 +4,19 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "4.5 - Bevolkingsgroei",
-      "en": "4.5 - Population Growth"
+      "nl": "Bevolkingsgroei",
+      "en": "Population Growth"
     }
   },
   "evaluation": {
     "memory_limit": 500000000,
-    "plan_name": "empty.tson",
+    "plan_name": "tests.yaml",
     "handler": "TESTed",
     "options": {
       "allow_fallback": false
     }
   },
-  "labels": [
+  "labels": ["Robbe Wulgaert", "JavaScript", "Sint-Lievenscollege Gent", "www.robbewulgaert.be"
 
   ],
   "internals": {
