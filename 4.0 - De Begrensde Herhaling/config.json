@@ -4,8 +4,8 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "4.0 - De Begrensde Herhaling",
-      "en": "4.0 - The For-Loop"
+      "nl": "De Begrensde Herhaling",
+      "en": "The For-Loop"
     }
   },
   "evaluation": {
