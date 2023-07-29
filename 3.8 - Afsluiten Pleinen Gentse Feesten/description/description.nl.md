@@ -6,7 +6,7 @@ een computerprogramma met camera's die de drukte op de pleinen kunnen nagaan. De
 * het sluitingsuur bereikt is. 
 
 ```
-* Vrijdagsmarkt: maximum 40.000 personen OF sluit om 23 uur; 
+* Korenmarkt: maximum 40.000 personen OF sluit om 23 uur; 
 
 ```
 
@@ -25,8 +25,9 @@ if (voorwaarde_1 || voorwaarde_2) {
 
 {: .callout.callout-info}
 > ## Gevraagd
-> * Schrijf een oplossing waarbij de gebruiker een uur (=geheel getal) en het aantal personen moet invoeren; 
-> * Print het resultaat (plein sluiten of open houden) op het scherm met een correcte volzin; 
-> * Een correcte volzin bevat een onderwerp, een werkwoord en een eenheid (=euro);
+> * Schrijf een oplossing waarbij de gebruiker een uur (=geheel getal) en het aantal personen moet invoeren;
+> * Gebruik volgende gegevens: `Locatie: Korenmarkt. Aantal personen: 47.276. Tijdstip: 22.00 uur.`
+> * Print het resultaat (plein sluiten of open houden) op het scherm met een correcte volzin, zoals: 
+> * `Het plein moet sluiten.` of `Het plein kan open blijven.`
 > * Maak gebruik van de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript) om jouw code uit te testen en te debuggen;
 > * Dien daarna jouw oplossing in via de Dodona-omgeving. 
