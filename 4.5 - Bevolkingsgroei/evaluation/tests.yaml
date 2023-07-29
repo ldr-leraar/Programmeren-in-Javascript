@@ -1,0 +1,12 @@
+- tab: "Oplossing"
+  testcases:
+    - stdout: "In het jaar 2023 is de bevolking van Montpellier gegroeid tot 304764 inwoners."
+    - stdout: "In het jaar 2024 is de bevolking van Montpellier gegroeid tot 314348 inwoners."
+    - stdout: "In het jaar 2025 is de bevolking van Montpellier gegroeid tot 324308 inwoners."
+    - stdout: "In het jaar 2026 is de bevolking van Montpellier gegroeid tot 334661 inwoners."
+    - stdout: "In het jaar 2027 is de bevolking van Montpellier gegroeid tot 345418 inwoners."
+    - stdout: "In het jaar 2028 is de bevolking van Montpellier gegroeid tot 356592 inwoners."
+    - stdout: "In het jaar 2029 is de bevolking van Montpellier gegroeid tot 368195 inwoners."
+    - stdout: "In het jaar 2030 is de bevolking van Montpellier gegroeid tot 380248 inwoners."
+    - stdout: "In het jaar 2031 is de bevolking van Montpellier gegroeid tot 392764 inwoners."
+    - stdout: "In het jaar 2032 is de bevolking van Montpellier gegroeid tot 405755 inwoners."
