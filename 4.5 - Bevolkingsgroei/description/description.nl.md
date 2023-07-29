@@ -12,6 +12,6 @@ De stad heeft 295.542 inwoners in 2022. Fred leert dat het bevolkingsaantal elk 
 > * Bereken het bevolkingsaantal van de stad voor elk jaar voor de komende tien jaar;
 > * Print het resultaat op het scherm met een correcte volzin in volgend format:
 > * `In het jaar 2023 is de bevolking van Montpellier gegroeid tot ... inwoners.`
-> * `In het jaar 2023 is de bevolking van Montpellier gegroeid tot ... inwoners.`
+> * `In het jaar 2024 is de bevolking van Montpellier gegroeid tot ... inwoners.`
 > * Maak gebruik van de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript) om jouw code uit te testen en te debuggen;
 > * Dien daarna jouw oplossing in via de Dodona-omgeving. 
