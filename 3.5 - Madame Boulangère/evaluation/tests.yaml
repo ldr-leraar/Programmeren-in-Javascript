@@ -1,0 +1,5 @@
+- tab: "Oplossing"
+  testcases:
+    - stdin: "5"
+      stdout: "Voor 5 taarten betalen ze 100.30000000000001 euro.
+"
