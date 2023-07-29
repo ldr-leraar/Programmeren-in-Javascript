@@ -31,7 +31,7 @@ Fred hield halt in volgende dorpen:
 > ## Gevraagd
 > * Schrijf een oplossing waarbij de gebruiker meermaals een afstand moet invoeren; 
 > * Gebruik de code hierboven, maar pas aan waar nodig!; 
-> * Bereken de totale afstand en print het eindresultaat naar het scherm met een volzin; 
-> * Een correcte volzin bevat een onderwerp, een werkwoord, eenheid ...;
+> * Bereken de totale afstand en print het eindresultaat naar het scherm met een volzin in volgend format: 
+> * `De totale afstand die ik heb afgelegd is: ... km.`
 > * Maak gebruik van de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript) om jouw code uit te testen en te debuggen;
 > * Dien daarna jouw oplossing in via de Dodona-omgeving. 
