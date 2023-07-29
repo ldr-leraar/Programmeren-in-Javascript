@@ -41,6 +41,6 @@ Fred hield halt in volgende dorpen:
 > * Schrijf een oplossing waarbij de gebruiker de naam van een dorp moet invoeren; 
 > * Gebruik de code hierboven, maar pas aan waar nodig!; 
 > * Print het eindresultaat op het scherm en stuur zo een bericht naar de mama van Fred; 
-> * Een correcte volzin bevat een onderwerp, een werkwoord ...;
+> * Gebruik volgend formaat: `Dag mama, ik ben nog steeds op reis in Frankrijk. Afgelopen dagen passeerde ik in: ..., ..., ...`
 > * Maak gebruik van de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript) om jouw code uit te testen en te debuggen;
 > * Dien daarna jouw oplossing in via de Dodona-omgeving. 
