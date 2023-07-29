@@ -4,19 +4,19 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "4.2 - Etappelijst in Kilometer",
-      "en": "4.2 - List of Stops and Distance"
+      "nl": "Etappelijst in Kilometer",
+      "en": "List of Stops and Distance"
     }
   },
   "evaluation": {
     "memory_limit": 500000000,
-    "plan_name": "empty.tson",
+    "plan_name": "tests.yaml",
     "handler": "TESTed",
     "options": {
       "allow_fallback": false
     }
   },
-  "labels": [
+  "labels": ["Robbe Wulgaert", "JavaScript", "Sint-Lievenscollege Gent", "www.robbewulgaert.be"
 
   ],
   "internals": {
