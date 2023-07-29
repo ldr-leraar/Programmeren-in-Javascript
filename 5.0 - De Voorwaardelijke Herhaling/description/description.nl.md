@@ -39,6 +39,7 @@ while (startwaarde > 500000) {
 {: .callout.callout-info}
 > ## Gevraagd
 > * Vul bovenstaande code verder aan; 
-> * Na hoeveel dagen zal de helft van het ijs zijn weggesmolten? 
+> * Na hoeveel dagen zal de helft van het ijs zijn weggesmolten?
+> * Laat het antwoord op het scherm verschijnen in volgend format: `Na ... dagen zal de helft van het ijs zijn weggesmolten.`
 > * Maak gebruik van de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript) om jouw code uit te testen en te debuggen;
 > * Dien daarna jouw oplossing in via de Dodona-omgeving. 
