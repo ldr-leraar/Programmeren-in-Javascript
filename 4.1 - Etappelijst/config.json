@@ -4,19 +4,19 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "4.1 - Etappelijst",
-      "en": "4.1 - List of Trips"
+      "nl": "Etappelijst",
+      "en": "List of Trips"
     }
   },
   "evaluation": {
     "memory_limit": 500000000,
-    "plan_name": "empty.tson",
+    "plan_name": "tests.yaml",
     "handler": "TESTed",
     "options": {
       "allow_fallback": false
     }
   },
-  "labels": [
+  "labels": ["Robbe Wulgaert", "JavaScript", "Sint-Lievenscollege Gent", "www.robbewulgaert.be"
 
   ],
   "internals": {
