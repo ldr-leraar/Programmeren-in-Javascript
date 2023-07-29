@@ -4,8 +4,8 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "5.1 - Etappelijst Versie 2.0",
-      "en": "5.1 - List of Trips, v2.0"
+      "nl": "Etappelijst Versie 2.0",
+      "en": "List of Trips, v2.0"
     }
   },
   "evaluation": {
@@ -16,7 +16,7 @@
       "allow_fallback": false
     }
   },
-  "labels": [
+  "labels": ["Robbe Wulgaert", "JavaScript", "Sint-Lievenscollege Gent", "www.robbewulgaert.be"
 
   ],
   "internals": {
