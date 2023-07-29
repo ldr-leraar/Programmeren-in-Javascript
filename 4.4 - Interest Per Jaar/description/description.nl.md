@@ -15,7 +15,8 @@ bij de bank. Hij kan er dus pas na vijf jaar opnieuw aan.
 {: .callout.callout-info}
 > ## Gevraagd
 > * Bereken het bedrag per jaar dat Fred ziet staan op die rekening.
-> * Print het resultaat op het scherm met een correcte volzin; 
-> * Een correcte volzin bevat een onderwerp, een werkwoord en een eenheid (=euro);
+> * Print het resultaat op het scherm met een correcte volzin met volgend format:
+> * `Na jaar 1 is de waarborg gegroeid tot ... euro.`
+> * `Na jaar 2 is de waarborg gegroeid tot ... euro.`
 > * Maak gebruik van de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript) om jouw code uit te testen en te debuggen;
 > * Dien daarna jouw oplossing in via de Dodona-omgeving. 
