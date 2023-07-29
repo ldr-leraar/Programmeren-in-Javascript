@@ -1,0 +1,4 @@
+- tab: "Oplossing"
+  testcases:
+    - stdout: "Er is een hittegolf"
+
