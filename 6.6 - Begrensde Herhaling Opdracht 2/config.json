@@ -4,8 +4,8 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "6.6 - Begrensde Herhaling Opdracht 2",
-      "en": "6.6 - For-loop Ex. 2"
+      "nl": "Begrensde Herhaling Opdracht 2",
+      "en": "For-loop Ex. 2"
     }
   },
   "evaluation": {
@@ -16,7 +16,7 @@
       "allow_fallback": false
     }
   },
-  "labels": [
+  "labels": ["Robbe Wulgaert", "JavaScript", "Sint-Lievenscollege Gent", "www.robbewulgaert.be"
 
   ],
   "internals": {
