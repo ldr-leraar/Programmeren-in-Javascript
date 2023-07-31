@@ -4,8 +4,8 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "2.5 - Korting in de supermarkt",
-      "en": "2.5 - Discounts in the shop"
+      "nl": "Korting in de supermarkt",
+      "en": "Discounts in the shop"
     }
   },
   "evaluation": {
@@ -16,7 +16,7 @@
       "allow_fallback": false
     }
   },
-  "labels": [
+  "labels": ["Robbe Wulgaert", "JavaScript", "Sint-Lievenscollege Gent", "www.robbewulgaert.be"
 
   ],
   "internals": {
