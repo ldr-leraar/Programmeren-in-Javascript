@@ -4,8 +4,8 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "2.4 - Zwembad",
-      "en": "2.4 - Swimming Pool"
+      "nl": "Zwembad",
+      "en": "Swimming Pool"
     }
   },
   "evaluation": {
@@ -16,7 +16,7 @@
       "allow_fallback": false
     }
   },
-  "labels": [
+  "labels": ["Robbe Wulgaert", "JavaScript", "Sint-Lievenscollege Gent", "www.robbewulgaert.be"
 
   ],
   "internals": {
