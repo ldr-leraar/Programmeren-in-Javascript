@@ -4,8 +4,8 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "6.2 - Sequentie Opdracht 2",
-      "en": "6.2 - Sequence Ex. 2"
+      "nl": "Sequentie Opdracht 2",
+      "en": "Sequence Ex. 2"
     }
   },
   "evaluation": {
@@ -16,7 +16,7 @@
       "allow_fallback": false
     }
   },
-  "labels": [
+  "labels": ["Robbe Wulgaert", "JavaScript", "Sint-Lievenscollege Gent", "www.robbewulgaert.be"
 
   ],
   "internals": {
