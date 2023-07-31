@@ -4,8 +4,8 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "6.4 - Selectie Opdracht 2",
-      "en": "6.4 - Selection Ex. 2"
+      "nl": "Selectie Opdracht 2",
+      "en": "Selection Ex. 2"
     }
   },
   "evaluation": {
@@ -16,7 +16,7 @@
       "allow_fallback": false
     }
   },
-  "labels": [
+  "labels": ["Robbe Wulgaert", "JavaScript", "Sint-Lievenscollege Gent", "www.robbewulgaert.be"
 
   ],
   "internals": {
