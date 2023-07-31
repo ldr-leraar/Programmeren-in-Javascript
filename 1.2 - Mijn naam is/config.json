@@ -4,8 +4,8 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "1.2 - Naam, familienaam?",
-      "en": "1.2 - What is your name?"
+      "nl": "Naam, familienaam?",
+      "en": "What is your name?"
     }
   },
   "evaluation": {
@@ -16,7 +16,7 @@
       "allow_fallback": false
     }
   },
-  "labels": [
+  "labels": ["Robbe Wulgaert", "JavaScript", "Sint-Lievenscollege Gent", "www.robbewulgaert.be"
 
   ],
   "internals": {
