@@ -29,7 +29,9 @@ while (teller < 5) {
 
 {: .callout.callout-info}
 > ## Gevraagd
-> * Vul de code van Fred verder aan; 
-> * Maak gebruik van zowel **zolang-functies** en **als-functies**; 
+> * Vul de code van Fred verder aan;
+> * Maak gebruik van zowel **zolang-functies** en **als-functies**;
+> * Is er een hittegolf, dan verschijnt er: `Hittegolf!`
+> * Is er géén hittegolf, dan verschijnt er: `Geen hittegolf.`
 > * Maak gebruik van de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript) om jouw code uit te testen en te debuggen;
 > * Dien daarna jouw oplossing in via de Dodona-omgeving. 
