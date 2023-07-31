@@ -4,8 +4,8 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "6.1 - Sequentie Opdracht 1",
-      "en": 6.1 - Sequence Ex. 1"
+      "nl": "Sequentie Opdracht 1",
+      "en": Sequence Exercise 1"
     }
   },
   "evaluation": {
@@ -16,7 +16,7 @@
       "allow_fallback": false
     }
   },
-  "labels": [
+  "labels": ["Robbe Wulgaert", "JavaScript", "Sint-Lievenscollege Gent", "www.robbewulgaert.be"
 
   ],
   "internals": {
