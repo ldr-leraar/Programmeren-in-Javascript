@@ -14,8 +14,8 @@ van drie maal de maandhuur. De maandhuur bedraagt 695 euro.
 {: .callout.callout-info}
 > ## Gevraagd
 > * Hoeveel jaar moet Fred het geld op de rekening laten staan totdat er minstens 6950 euro op de rekening staat?
-> * Print het resultaat op het scherm met een correcte volzin; 
-> * Een correcte volzin bevat een onderwerp, een werkwoord en een eenheid (=euro);
+> * Print het resultaat op het scherm met een correcte volzin met volgend format:
+> * `Fred moet het geld ... jaar op de rekening laten staan totdat er minstens 6950 euro op de rekening staat.`
 > * Maak gebruik van de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript) om jouw code uit te testen en te debuggen;
 > * Dien daarna jouw oplossing in via de Dodona-omgeving. 
 
