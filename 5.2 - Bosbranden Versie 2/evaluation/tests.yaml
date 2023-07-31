@@ -1,0 +1,3 @@
+- tab: "Oplossing"
+  testcases:
+     - stdout: "Na 11 dagen is 1003621.0800000002 vierkante meter bos afgebrand. De stad moet geëvacueerd worden."
