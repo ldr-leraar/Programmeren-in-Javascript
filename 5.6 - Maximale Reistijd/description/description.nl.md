@@ -6,7 +6,7 @@ Fred is op autoreis doorheen Frankrijk met zijn elektrische wagen. Hij controlee
 
 
 
-<img src="https://images.pexels.com/photos/196652/pexels-photo-196652.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width="50%"/>
+<img src="https://blog.evsolutions.com/hubfs/2023-EVS/HS2022-How%20Electric%20Vehicle%20Battery%20Technology%20Works.png" width="50%"/>
 
 {: .callout.callout-info}
 > ## Gevraagd
