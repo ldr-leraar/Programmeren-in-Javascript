@@ -4,8 +4,8 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "2.9 - Raakt Fred op zijn bestemming?",
-      "en": "2.9 - Does Fred reach his destination?"
+      "nl": "Raakt Fred op zijn bestemming?",
+      "en": "Does Fred reach his destination?"
     }
   },
   "evaluation": {
@@ -16,7 +16,7 @@
       "allow_fallback": false
     }
   },
-  "labels": [
+  "labels": ["Robbe Wulgaert", "JavaScript", "Sint-Lievenscollege Gent", "www.robbewulgaert.be"
 
   ],
   "internals": {
