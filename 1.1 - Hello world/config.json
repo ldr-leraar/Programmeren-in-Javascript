@@ -4,8 +4,8 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "1.1 - Hello, world!",
-      "en": "1.1 - Hello, world!"
+      "nl": "Hello, world!",
+      "en": "Hello, world!"
     }
   },
   "evaluation": {
@@ -16,9 +16,7 @@
       "allow_fallback": false
     }
   },
-  "labels": [
-    "Robbe Wulgaert",
-    "javascript"
+  "labels": ["Robbe Wulgaert", "JavaScript", "Sint-Lievenscollege Gent", "www.robbewulgaert.be"
   ],
   "internals": {
     "token": "BHEkuMuAH5vVrbJnBGfWgvSBB_gU47bxV34NrWIPa36HmvGqI2dBd6pxXMb86z74",
