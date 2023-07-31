@@ -4,8 +4,8 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "1.0 - Welkom",
-      "en": "1.0 - Welcome"
+      "nl": "Welkom",
+      "en": "Welcome"
     }
   },
   "evaluation": {
