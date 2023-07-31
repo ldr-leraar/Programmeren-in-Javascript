@@ -10,7 +10,7 @@ De stad heeft 295.542 inwoners in 2022. Fred leert dat het bevolkingsaantal elk 
 {: .callout.callout-info}
 > ## Gevraagd
 > * Hoeveel jaar zal het duren totdat de bevolking van de stad verdubbeld is?
-> * Print het resultaat op het scherm met een correcte volzin; 
-> * Een correcte volzin bevat een onderwerp, een werkwoord en een eenheid;
+> * Print het resultaat op het scherm met een correcte volzin met volgend format: 
+> * `Het zal ... jaar duren voordat de bevolking van de stad verdubbeld is.`
 > * Maak gebruik van de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript) om jouw code uit te testen en te debuggen;
 > * Dien daarna jouw oplossing in via de Dodona-omgeving. 
