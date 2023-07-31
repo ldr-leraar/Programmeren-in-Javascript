@@ -11,6 +11,7 @@ Fred is op autoreis doorheen Frankrijk met zijn elektrische wagen. Hij controlee
 {: .callout.callout-info}
 > ## Gevraagd
 > * Schrijf een oplossing waarmee Fred kan berekenen hoeveel uur hij kan rijden met bovenstaande gegevens; 
-> * Een correcte volzin bevat een onderwerp, een werkwoord en een eenheid;
+> * Een correcte volzin bevat een onderwerp, een werkwoord en een eenheid in volgend format:
+> * `Fred kan ... uur rijden met zijn elektrische wagen.`
 > * Maak gebruik van de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript) om jouw code uit te testen en te debuggen;
 > * Dien daarna jouw oplossing in via de Dodona-omgeving. 
