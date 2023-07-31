@@ -1,0 +1,3 @@
+- tab: "Oplossing"
+  testcases:
+     - stdout: "Het zal 23 jaar duren voordat de bevolking van de stad verdubbeld is."
