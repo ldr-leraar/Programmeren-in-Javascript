@@ -1,0 +1,3 @@
+- tab: "Oplossing"
+  testcases:
+     - stdout: "Fred moet het geld 41 jaar op de rekening laten staan totdat er minstens 6950 euro op de rekening staat."
