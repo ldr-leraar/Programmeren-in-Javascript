@@ -4,8 +4,8 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "1.5 - Goedemorgen, Robot!",
-      "en": "1.5 - Good Morning, Robot!"
+      "nl": "Goedemorgen, Robot!",
+      "en": "Good Morning, Robot!"
     }
   },
   "evaluation": {
@@ -16,7 +16,7 @@
       "allow_fallback": false
     }
   },
-  "labels": [
+  "labels": ["Robbe Wulgaert", "JavaScript", "Sint-Lievenscollege Gent", "www.robbewulgaert.be"
 
   ],
   "internals": {
