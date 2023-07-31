@@ -1,5 +1,3 @@
 - tab: "Oplossing"
   testcases:
-     - stdout: "De kat krabt de krollen van de trap"
-     - stdout: 'Robbe zei tegen vader "Zou je dat nou wel doen?".'
-     - stdout: "Isaura's nieuwe auto."
+     - stdout: "De kat krabt de krollen van de trap"/n'Robbe zei tegen vader "Zou je dat nou wel doen?".'/n"Isaura's nieuwe auto."
