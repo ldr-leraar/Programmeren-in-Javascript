@@ -4,8 +4,8 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "2.10 - Bytes",
-      "en": "2.10 - Bytes"
+      "nl": "Bytes",
+      "en": "Bytes"
     }
   },
   "evaluation": {
@@ -16,7 +16,7 @@
       "allow_fallback": false
     }
   },
-  "labels": [
+  "labels": ["Robbe Wulgaert", "JavaScript", "Sint-Lievenscollege Gent", "www.robbewulgaert.be"
 
   ],
   "internals": {
