@@ -4,8 +4,8 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "1.4 - Concateneren",
-      "en": "1.4 - Concatenate Strings"
+      "nl": "Concateneren",
+      "en": "Concatenate Strings"
     }
   },
   "evaluation": {
@@ -16,7 +16,7 @@
       "allow_fallback": false
     }
   },
-  "labels": [
+  "labels": ["Robbe Wulgaert", "JavaScript", "Sint-Lievenscollege Gent", "www.robbewulgaert.be"
 
   ],
   "internals": {
