@@ -4,8 +4,8 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "3.3 - Tolwegen in Frankrijk",
-      "en": "3.3 - Toll Road in France"
+      "nl": "Tolwegen in Frankrijk",
+      "en": "Toll Road in France"
     }
   },
   "evaluation": {
@@ -16,7 +16,7 @@
       "allow_fallback": false
     }
   },
-  "labels": ["Robbe Wulgaert", "JavaScript"
+  "labels": ["Robbe Wulgaert", "JavaScript", "Sint-Lievenscollege Gent", "www.robbewulgaert.be"
 
   ],
   "internals": {
