@@ -4,8 +4,8 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "3.4 - Aanmelden",
-      "en": "3.4 - Signing In"
+      "nl": "Aanmelden",
+      "en": "Signing In"
     }
   },
   "evaluation": {
@@ -16,7 +16,7 @@
       "allow_fallback": false
     }
   },
-  "labels": ["Robbe Wulgaert", "JavaScript", "Sint-Lievenscollege"
+  "labels": ["Robbe Wulgaert", "JavaScript", "Sint-Lievenscollege Gent", "www.robbewulgaert.be"
 
   ],
   "internals": {
