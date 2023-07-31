@@ -4,8 +4,8 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "3.0 - De Selectie Deel 1 - if-functie",
-      "en": "3.0 - The Selection Part 1 - if-Function"
+      "nl": "De Selectie Deel 1 - if-functie",
+      "en": "The Selection Part 1 - if-Function"
     }
   },
   "evaluation": {
@@ -16,7 +16,7 @@
       "allow_fallback": false
     }
   },
-  "labels": [
+  "labels": ["Robbe Wulgaert", "JavaScript", "Sint-Lievenscollege Gent", "www.robbewulgaert.be"
 
   ],
   "internals": {
