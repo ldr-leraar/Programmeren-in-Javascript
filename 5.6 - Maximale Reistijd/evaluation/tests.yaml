@@ -1,0 +1,3 @@
+- tab: "Oplossing"
+  testcases:
+     - stdout: "Fred kan 6 uur rijden met zijn elektrische wagen."
