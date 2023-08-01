@@ -14,6 +14,7 @@
     "Sint-Lievenscollege Gent",
     "www.robbewulgaert.be"
   ],
+  "type": "content",
   "access": "public",
   "internals": {
     "token": "6WC3jNfmdH9jzgkkQtCkktDmrUSyqZfw6hyHQwaw6rYqd42qmchSR2u5HXR8T6Z2",
