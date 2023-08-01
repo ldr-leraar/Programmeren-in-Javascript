@@ -1,0 +1,10 @@
+## Doel
+
+In deze video leer je: 
+* een variabele aanmaken;
+* een boodschap naar het scherm schrijven via de **console.log()-functie**;
+* verschillende tekstboodschappen concateneren.
+
+<div class ="dodona-centered-group">
+<iframe width="960" height="540" src="https://www.youtube.com/embed/oHMEza5C8Vg?list=PL7qul8TV_7p7v3bp1KpzJrH5Yb56Ha4Nx" title="Computationeel Denken &amp; Javascript: Hoofdstuk 1 - Hello, World!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>

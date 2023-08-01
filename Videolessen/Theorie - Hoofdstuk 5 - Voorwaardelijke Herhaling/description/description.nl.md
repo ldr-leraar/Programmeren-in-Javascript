@@ -1,0 +1,9 @@
+## Doel
+
+In deze video leer je: 
+* een voorwaardelijke herhaling herkennen in een opgave;
+* een while-lus programmeren.
+
+<div class ="dodona-centered-group">
+<iframe width="960" height="540" src="https://www.youtube.com/embed/jWGHoCy4RQA?list=PL7qul8TV_7p7v3bp1KpzJrH5Yb56Ha4Nx" title="Computationeel Denken &amp; Javascript: Hoofdstuk 5 -   De Voorwaardelijke Herhaling" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
