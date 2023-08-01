@@ -8,12 +8,15 @@
   "evaluation": {
     "pythia_judge": "output"
   },
-  "labels": ["Robbe Wulgaert", "JavaScript", "Sint-Lievenscollege Gent", "www.robbewulgaert.be"
-
+  "labels": [
+    "Robbe Wulgaert",
+    "JavaScript",
+    "Sint-Lievenscollege Gent",
+    "www.robbewulgaert.be"
   ],
   "access": "public",
   "internals": {
-    "token": "wG6x-76WA4yGK-j-xMmGNgTYJ-DCIhD7jmbxiKSZ5bx9i8vm_EA6XaYAWxkEGadd",
+    "token": "C6SS-MHakp_gQiSbGDZaK6DpU9nByTtUSgcxSnGQUYdNjAD83U4CDuQb_D8qcE8G",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
