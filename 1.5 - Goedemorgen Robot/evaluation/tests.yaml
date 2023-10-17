@@ -1,4 +1,5 @@
 - tab: "Oplossing"
   testcases:
      - stdout: "Goedemorgen mevr. Deleye, vandaag heeft u op de planning: vergadering met regionaal manager Sufyan Y."
+  testcases:
      - stdout: "Goedemorgen mr. Lantmeeters, vandaag heeft u op de planning: beklimming Belfort met Erasmus+groep uit Portugal."
