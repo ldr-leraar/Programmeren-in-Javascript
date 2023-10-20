@@ -29,7 +29,7 @@ Bij de diensten van de Stad Gent vindt men onderstaande code terug:
 var voornaam = 'Robbe'; 
 var familienaam = 'Wulgaert'; 
 var geboorteplaats = 'Gent'; 
->var adres = 'Koekoekstraat 77, Melle'; 
+var adres = 'Koekoekstraat 77, Melle'; 
 //We printen deze gegevens via de console.log-functie naar het scherm:
 console.log(voornaam);
 console.log(familienaam);
