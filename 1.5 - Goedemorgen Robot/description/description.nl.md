@@ -8,8 +8,8 @@ Gebruik volgende variabelen:
 ```
 var begroeting = ... ;
 var titel = ... ;
-var naam1 = ... ;
-var activiteit1 = ... ;
+var naam = ... ;
+var activiteit = ... ;
 ```
 
 ## Uitvoer
