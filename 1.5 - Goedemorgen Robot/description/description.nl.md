@@ -3,15 +3,21 @@
 Hotel Center Inno opent binnenkort een nieuwe vestiging in de stad. Om de aandacht van de pers en klanten te trekken, wil men werken met gepersonaliseerde begroetingsschermen en assitenten. 
 Deze zouden de gast moeten aanspreken met zijn / haar / hun correcte naam, titel ... en dat allemaal in een beleefde vorm. 
 
+## Invoer: 
+Gebruik volgende variabelen: 
+```
+var begroeting = ... ;
+var titel = ... ;
+var naam1 = ... ;
+var activiteit1 = ... ;
+```
+
 ## Uitvoer
 
 ```
 Goedemorgen mevr. Deleye, vandaag heeft u op de planning: vergadering met regionaal manager Sufyan Y.
 ```
 
-```
-Goedemorgen mr. Lantmeeters, vandaag heeft u op de planning: beklimming Belfort met Erasmus+groep uit Portugal. 
-```
 
 {: .callout.callout-info}
 >## Gevraagd
