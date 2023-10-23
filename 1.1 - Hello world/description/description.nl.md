@@ -4,7 +4,7 @@ De eerste geschreven voorbeelden dateren uit 1978, uit het boek *The C Programmi
 was om 'hello world' op het scherm te laten verschijnen. En zo geschiedde! In vele andere handboeken, cursussen, programmeertalen zou
 deze regel code, de 'hello world'-opdracht, de allereerste oefening zijn. Een traditie! 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Hello_World_Brian_Kernighan_1978.jpg"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Hello_World_Brian_Kernighan_1978.jpg" width="30%"/>
 
 {: .callout.callout-info}
 >## Opgave
