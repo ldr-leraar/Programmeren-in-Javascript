@@ -1,7 +1,7 @@
-- tab: "Oplossing"
-  testcases:
-     - stdout: "6.66 gigabytes"
-     - stdout: "6815.04 megabytes"
-     - stdout: "6979328.96 kilobytes"
-     - stdout: "7146536960.64 bytes"
-     - stdout: "57172295685.12 bits"
+tab: "Oplossing"
+testcases:
+  - stdout: "6.66 gigabyte"
+  - stdout: "6660 megabyte"
+  - stdout: "6660000 kilobyte"
+  - stdout: "6660000000 byte"
+  - stdout: "53280000000 bits"
