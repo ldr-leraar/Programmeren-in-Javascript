@@ -22,9 +22,9 @@ Het bestand dat Fred downloadt is 6.66 gigabyte groot.
 > * Dien daarna jouw code in via de Dodona-omgeving. 
 
 
-{: .callout.callout-tip}
-> ## Tip
-> Begin jouw code als volgt:
+## Tip
+Begin jouw code als volgt:
+
 ```
 // Grootte van het bestand in gigabytes
 var bestandsgrootteInGB = 6.66;
