@@ -18,6 +18,8 @@ Hij ontbreekt de **lengte** van de tanker ...
 > * Dien daarna jouw code in via de Dodona-omgeving. 
 
 ## Tips
+Hier is een voorbeeldstructuur voor je code:
+
 ```
 // Gegevens van de tankwagen
 var capaciteit = 50; // in kubieke meter
