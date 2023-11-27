@@ -1,11 +1,9 @@
-var etenEnDrinken = 102.77; // in euro
-var vuilniszakken = 18; // in euro
+// Het totale bedrag van de aankopen
+var bedrag1 = 102.77;
 
-var totaal = etenEnDrinken + vuilniszakken; // totaal bedrag zonder korting
+// Berekening van de korting en het totale bedrag
+var korting = 100 * 0.05
+var totaalTeBetalen = bedrag1 - korting + 2.77;
 
-var korting1 = 100 * 0.05; // 5% korting op de eerste 100 euro
-var korting2 = (totaal-100) * 0.075; // 7.5% korting op alles boven de 100 euro
-
-var teBetalen = totaal - korting1 - korting2; // totaal bedrag na korting
-
-console.log('Het totale te betalen bedrag is ' + teBetalen + ' euro.');
+// Afdrukken van het resultaat
+console.log('Het totale te betalen bedrag is', totaalTeBetalen, 'euro.');
