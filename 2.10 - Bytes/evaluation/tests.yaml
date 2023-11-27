@@ -1,2 +1,7 @@
 tab: "Oplossing"
-stdout: "6.66 gigabyte\n6660 megabyte\n6660000 kilobyte\n6660000000 byte\n53280000000 bits"
+testcases:
+  - stdout: "6.66 gigabyte"
+  - stdout: "6660 megabyte"
+  - stdout: "6660000 kilobyte"
+  - stdout: "6660000000 byte"
+  - stdout: "53280000000 bits"
