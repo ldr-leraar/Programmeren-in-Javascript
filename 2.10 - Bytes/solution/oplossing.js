@@ -1,12 +1,16 @@
-var bestandInGigabytes = 6.66;
+// Grootte van het bestand in gigabytes
+var bestandsgrootteInGB = 6.66;
 
-var bestandInMegabytes = bestandInGigabytes * 1024;
-var bestandInKilobytes = bestandInMegabytes * 1024;
-var bestandInBytes = bestandInKilobytes * 1024;
-var bestandInBits = bestandInBytes * 8;
+// Conversie naar verschillende eenheden met factor 1000
+var bestandsgrootteInMB = bestandsgrootteInGB * 1000;
+var bestandsgrootteInKB = bestandsgrootteInMB * 1000;
+var bestandsgrootteInBytes = bestandsgrootteInKB * 1000;
+var bestandsgrootteInBits = bestandsgrootteInBytes * 8;
 
-console.log(bestandInGigabytes + ' gigabytes');
-console.log(bestandInMegabytes + ' megabytes');
-console.log(bestandInKilobytes + ' kilobytes');
-console.log(bestandInBytes + ' bytes');
-console.log(bestandInBits + ' bits');
+// Afdrukken van de resultaten
+console.log(bestandsgrootteinGB,'gigabyte');
+console.log(bestandsgrootteinMB,'megabyte');
+console.log(bestandsgrootteinKB,'kilobyte');
+console.log(bestandsgrootteinBytes,'byte');
+console.log(bestandsgrootteinBits,'bits');
+
