@@ -15,8 +15,8 @@ Het bestand dat Fred downloadt is 6.66 gigabyte groot.
 
 {: .callout.callout-info}
 > ## Gevraagd
-> Jouw taak is het schrijven van een JavaScript-programma dat de grootte van Freds bestand in verschillende eenheden uitdrukt. Dit programma moet:
-> * De grootte van het bestand omrekenen naar bits, bytes, kilobytes, en megabytes;
+> Jouw taak is het schrijven van een JavaScript-programma dat de grootte van Freds bestand in bits uitdrukt. Dit programma moet:
+> * De grootte van het bestand omrekenen naar bits;
 > * De resultaten afdrukken met de console.log-functie; 
 > * Maak gebruik van de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript) om jouw code uit te testen en te **debuggen**; 
 > * Dien daarna jouw code in via de Dodona-omgeving. 
