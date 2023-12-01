@@ -8,8 +8,4 @@ var bestandsgrootteInBytes = bestandsgrootteInKB * 1000;
 var bestandsgrootteInBits = bestandsgrootteInBytes * 8;
 
 // Afdrukken van de resultaten
-console.log(bestandsgrootteInGB,'gigabyte');
-console.log(bestandsgrootteInMB,'megabyte');
-console.log(bestandsgrootteInKB,'kilobyte');
-console.log(bestandsgrootteInBytes,'byte');
 console.log(bestandsgrootteInBits,'bits');
