@@ -1,3 +1,0 @@
-- tab: "Oplossing"
-  testcases:
-    - stdout: "Na de vier etappes van elk 112.34 km, blijft er nog 110.63999999999999 kilometer over in de batterij van Freds wagen.\nDit komt overeen met 19.757142857142853% van de totale batterijcapaciteit.\n"

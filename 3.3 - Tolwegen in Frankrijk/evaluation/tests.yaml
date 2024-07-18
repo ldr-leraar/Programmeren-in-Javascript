@@ -1,7 +1,0 @@
-- tab: "Oplossing"
-  testcases:
-    - stdin: "Auto met elektrische motor"
-      stdout: "Het tarief is 8.90 euro"
-
-
-

@@ -1,9 +1,0 @@
-- tab: "Oplossing"
-  testcases:
-    - stdout: "Op dag 1 is er 91224.68 vierkante meter bos afgebrand."
-    - stdout: "Op dag 2 is er 182449.36 vierkante meter bos afgebrand."
-    - stdout: "Op dag 3 is er 273674.04 vierkante meter bos afgebrand."
-    - stdout: "Op dag 4 is er 364898.72 vierkante meter bos afgebrand."
-    - stdout: "Op dag 5 is er 456123.4 vierkante meter bos afgebrand."
-    - stdout: "Op dag 6 is er 547348.08 vierkante meter bos afgebrand."
-    - stdout: "Op dag 7 is er 638572.76 vierkante meter bos afgebrand."

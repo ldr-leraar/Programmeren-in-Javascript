@@ -1,3 +1,27 @@
+## Voorwaarden combineren
+
+Wanneer we werken met **programmeerconcepten** zoals IF en ELSE IF, maken we gebruik van **voorwaarden**. Wanneer aan de voorwaarde is voldaan, 
+dan worden de acties die horen bij die functie uitgevoerd. 
+
+Een voorbeeld van zo een voorwaarde is: 
+
+```
+var dag1 = 25.6; 
+if (dag1 >= 25) {
+	console.log('Je gebruikt best zonnecreme!'); 
+}
+```
+
+Bij het opstellen van een functie met een voorwaarde, kan je twee of meerdere voorwaarden combineren! Daarvoor gebruik je **&& operator**. 
+de twee voorwaarden. 
+
+```
+var dag1 = 25.6; 
+var dag2 = 30.09
+if (dag1 >= 25 && dag2 >= 25) {
+	console.log('Je gebruikt best zonnecreme!'); 
+}
+```
 
 ## Gegeven
 

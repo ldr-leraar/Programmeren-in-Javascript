@@ -5,7 +5,7 @@ Computers staan gekend om hun grote rekenkracht. Het zijn, kort door de bocht, g
 maken aan een snelheid die wij mensen niet kunnen evenaren. Maar om die rekenkracht te benutten, moeten we de **operatoren**
 correct leren gebruiken. 
 
-Een **operator** is een **bewerkingsteken** uit de les wiskunde; met hier en daar een klein verschil in notatatie.
+Een **operator** is een **bewerkingsteken** uit de les wiskunde; met hier en daar een klein verschil in notatie.
 
 **Gegeven:**
 
