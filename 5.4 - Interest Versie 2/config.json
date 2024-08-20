@@ -16,11 +16,14 @@
       "allow_fallback": false
     }
   },
-  "labels": ["Robbe Wulgaert", "JavaScript", "Sint-Lievenscollege Gent", "www.robbewulgaert.be"
-
+  "labels": [
+    "Robbe Wulgaert",
+    "JavaScript",
+    "Sint-Lievenscollege Gent",
+    "www.robbewulgaert.be"
   ],
   "internals": {
-    "token": "E52HUUTpMIB_PSHHvUuI5TWtg8jrk8wDqpuNM8fCnjrIrYbZPEaNK4xFfDxrRRxk",
+    "token": "PK4DIMCK7C4Zciz9WU5NxJmiaJk93A57zn7cQxFkKH4wjEivaPdv-GYnQTMm5bdx",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
