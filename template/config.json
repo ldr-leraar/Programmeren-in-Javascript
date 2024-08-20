@@ -1,0 +1,23 @@
+{
+  "type": "exercise",
+  "programming_language": "javascript",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Description"
+    }
+  },
+  "evaluation": {
+    "memory_limit": 500000000,
+    "plan_name": "tests.yaml",
+    "handler": "TESTed",
+    "options": {
+      "allow_fallback": false
+    }
+  },
+  "labels": ["Luk De Reu", "JavaScript"],
+  "internals": {
+    "token": "E52HUUTpMIB_PSHHvUuI5TWtg8jrk8wDqpuNM8fCnjrIrYbZPEaNK4xFfDxrRRxk",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
