@@ -16,11 +16,9 @@
       "allow_fallback": false
     }
   },
-  "labels": [
-
-  ],
+  "labels": [],
   "internals": {
-    "token": "RGa6B35AiIJ--ha6T5jt7daqHXnffkQxZuDqXDtJ9GTtqPMkE3TBN_wIhKhNiUGh",
+    "token": "nyPQmJ-_UUp2uCRC7xsw8BUQM8kzrt5ndHHaZC2DKqejUR5GyRQUXtD-sx_36pdc",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
